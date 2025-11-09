@@ -1,0 +1,81 @@
+name: Generate Iller Structure
+
+on:
+  workflow_run:
+    workflows: ["Scrape PTT Address Data"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for changes in ptt_il_ilce_mahalle.json
+        id: check_changes
+        run: |
+          # Fetch all branches and commits
+          git fetch --all
+
+          # Check if ptt_il_ilce_mahalle.json has changed
+          # For workflow_run: check if file changed in the triggering workflow's commit
+          # For workflow_dispatch: always run
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Manual trigger - will generate structure"
+          else
+            # Get the commit SHA from the triggering workflow
+            TRIGGERING_SHA="${{ github.event.workflow_run.head_sha }}"
+            
+            # Check if we can compare with previous commit
+            if git cat-file -e "$TRIGGERING_SHA~1" 2>/dev/null; then
+              # Compare with previous commit
+              if git diff --quiet "$TRIGGERING_SHA~1" "$TRIGGERING_SHA" -- PTT/ptt_il_ilce_mahalle.json 2>/dev/null; then
+                echo "has_changes=false" >> $GITHUB_OUTPUT
+                echo "No changes detected in ptt_il_ilce_mahalle.json"
+              else
+                echo "has_changes=true" >> $GITHUB_OUTPUT
+                echo "Changes detected in ptt_il_ilce_mahalle.json"
+                git diff "$TRIGGERING_SHA~1" "$TRIGGERING_SHA" -- PTT/ptt_il_ilce_mahalle.json | head -20
+              fi
+            else
+              # First commit or can't find previous commit - check if file exists and has content
+              if [ -f "PTT/ptt_il_ilce_mahalle.json" ] && [ -s "PTT/ptt_il_ilce_mahalle.json" ]; then
+                echo "has_changes=true" >> $GITHUB_OUTPUT
+                echo "File exists, will generate structure"
+              else
+                echo "has_changes=false" >> $GITHUB_OUTPUT
+                echo "File not found or empty"
+              fi
+            fi
+          fi
+
+      - name: Set up Python
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Generate iller structure
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          python .github/scripts/generate_iller_structure.py
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "hemn791@gmail.com"
+          git config --local user.name "Hemn"
+          git add PTT/iller/
+          git diff --staged --quiet || git commit -m "Generate iller structure: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
