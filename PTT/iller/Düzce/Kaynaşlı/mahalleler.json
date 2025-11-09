@@ -1,0 +1,437 @@
+[
+    {
+        "mahalle_id": "39_2",
+        "mahalle_adi": "28 Evler Mah (darıyeri Yörükler Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "17_2",
+        "mahalle_adi": "Alt Mah (çatalçam Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "50_2",
+        "mahalle_adi": "Alt Mah (hacıazizler Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "21_2",
+        "mahalle_adi": "Başyazıcıoğlu Dağ Evleri Mah (darıyeribakacak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "6_2",
+        "mahalle_adi": "Bektaşlı Mah (bıçkıyanı Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "14_2",
+        "mahalle_adi": "Bülbüldere Mah (çamoluk Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "8_2",
+        "mahalle_adi": "Çakırsayvan Köyü",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "16_2",
+        "mahalle_adi": "Çamlık Mah (çatalçam Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "79_2",
+        "mahalle_adi": "Çaykara Mah (yeşiltepe Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "1_1",
+        "mahalle_adi": "Çele Mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "58_2",
+        "mahalle_adi": "Çillioğlu Mah (sarıçökek Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "63_2",
+        "mahalle_adi": "Çimenlikoruluk Mah (tavak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "20_2",
+        "mahalle_adi": "D-100 Boludağı Karayolu Mah (darıyeribakacak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "34_2",
+        "mahalle_adi": "D-100 Karayolu Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "56_2",
+        "mahalle_adi": "Degirmenyanı Mah (sarıçökek Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "12_2",
+        "mahalle_adi": "Dere Mah (çamlıca Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "44_2",
+        "mahalle_adi": "Dere Mah (dipsizgöl Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "33_2",
+        "mahalle_adi": "Dereboyu Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "31_2",
+        "mahalle_adi": "Dip Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "43_2",
+        "mahalle_adi": "Doğantepe Mah (dipsizgöl Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "74_2",
+        "mahalle_adi": "Düzgöstek Mah (yeniyurt Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "55_2",
+        "mahalle_adi": "Düzormanı Mah (sarıçökek Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "77_2",
+        "mahalle_adi": "Eğreltili Mah (yeniyurt Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "23_2",
+        "mahalle_adi": "Elmalı Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "2_1",
+        "mahalle_adi": "Eskiköy Mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "69_2",
+        "mahalle_adi": "Fatih Mah (üçköprü Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "68_2",
+        "mahalle_adi": "Fenerbahçe Mah (üçköprü Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "47_2",
+        "mahalle_adi": "Fındıklı Köyü",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "18_2",
+        "mahalle_adi": "Fındıklı Mah (çatalçam Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "27_2",
+        "mahalle_adi": "Güldere Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "60_2",
+        "mahalle_adi": "Güney Mah (sazköy Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "36_2",
+        "mahalle_adi": "Hacımehmet Mah (darıyerimengencik Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "7_2",
+        "mahalle_adi": "Hamzalı Mah (bıçkıyanı Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "25_2",
+        "mahalle_adi": "Hendanoğlu Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "72_2",
+        "mahalle_adi": "İlhanlı Mah (yeniyurt Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "37_2",
+        "mahalle_adi": "Kahveci Mah (darıyerimengencik Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "3_1",
+        "mahalle_adi": "Karaçalı Mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "73_2",
+        "mahalle_adi": "Karşı Mah (yeniyurt Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "11_2",
+        "mahalle_adi": "Koytaklı Mah (çamlıca Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "40_2",
+        "mahalle_adi": "Kültür Mah (dipsizgöl Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "30_2",
+        "mahalle_adi": "Kulubeyanı Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "4_1",
+        "mahalle_adi": "Kumluca Mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "4_2",
+        "mahalle_adi": "Kuzumlu Mah (bıçkıyanı Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "76_2",
+        "mahalle_adi": "Mehmetpınar Mah (yeniyurt Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "5_1",
+        "mahalle_adi": "Merkez Mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "1_2",
+        "mahalle_adi": "Merkez Mah (altunköy Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "5_2",
+        "mahalle_adi": "Merkez Mah (bıçkıyanı Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "10_2",
+        "mahalle_adi": "Merkez Mah (çamlıca Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "13_2",
+        "mahalle_adi": "Merkez Mah (çamoluk Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "19_2",
+        "mahalle_adi": "Merkez Mah (çatalçam Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "38_2",
+        "mahalle_adi": "Merkez Mah (darıyeri Yörükler Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "22_2",
+        "mahalle_adi": "Merkez Mah (darıyeribakacak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "32_2",
+        "mahalle_adi": "Merkez Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "35_2",
+        "mahalle_adi": "Merkez Mah (darıyerimengencik Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "45_2",
+        "mahalle_adi": "Merkez Mah (dipsizgöl Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "48_2",
+        "mahalle_adi": "Merkez Mah (hacıazizler Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "53_2",
+        "mahalle_adi": "Merkez Mah (muratbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "54_2",
+        "mahalle_adi": "Merkez Mah (sarıçökek Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "59_2",
+        "mahalle_adi": "Merkez Mah (sazköy Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "61_2",
+        "mahalle_adi": "Merkez Mah (tavak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "71_2",
+        "mahalle_adi": "Merkez Mah (yeniyurt Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "78_2",
+        "mahalle_adi": "Merkez Mah (yeşiltepe Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "3_2",
+        "mahalle_adi": "Merkezyayla Mah (altunköy Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "29_2",
+        "mahalle_adi": "Meşelik Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "2_2",
+        "mahalle_adi": "Oflu Mah (altunköy Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "65_2",
+        "mahalle_adi": "Onbaşı Mah (tavak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "46_2",
+        "mahalle_adi": "Orta Mah (dipsizgöl Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "49_2",
+        "mahalle_adi": "Orta Mah (hacıazizler Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "62_2",
+        "mahalle_adi": "Osmançavuş Mah (tavak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "70_2",
+        "mahalle_adi": "Şafak Mah (üçköprü Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "41_2",
+        "mahalle_adi": "Sağlık Mah (dipsizgöl Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "6_1",
+        "mahalle_adi": "Sarıyer Mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "26_2",
+        "mahalle_adi": "Şevki Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "7_1",
+        "mahalle_adi": "Şimşir Mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "9_2",
+        "mahalle_adi": "Sinekli Mah (çakırsayvan Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "28_2",
+        "mahalle_adi": "Şirinevler Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "80_2",
+        "mahalle_adi": "Soğuksu Mah (yeşiltepe Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "57_2",
+        "mahalle_adi": "Tahtalık Mah (sarıçökek Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "24_2",
+        "mahalle_adi": "Taşaltı Mah (darıyerihasanbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "42_2",
+        "mahalle_adi": "Tekirsu Mah (dipsizgöl Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "75_2",
+        "mahalle_adi": "Tütekyatak Mah (yeniyurt Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "67_2",
+        "mahalle_adi": "Ufuk Mah (üçköprü Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "15_2",
+        "mahalle_adi": "Üst Mah (çatalçam Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "51_2",
+        "mahalle_adi": "Velioğlu Aliosman Mah (muratbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "64_2",
+        "mahalle_adi": "Veyselusta Mah (tavak Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "52_2",
+        "mahalle_adi": "Yağcılar Bilal Mah (muratbey Köyü)",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "66_2",
+        "mahalle_adi": "Yenidoğan Mah (üçköprü Köyü)",
+        "posta_kodu": "81902"
+    }
+]

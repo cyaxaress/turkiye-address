@@ -1,0 +1,2222 @@
+[
+    {
+        "mahalle_id": "1_1",
+        "mahalle_adi": "Ağcıkişi Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "68_2",
+        "mahalle_adi": "Ağnak Mah (bey Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "387_2",
+        "mahalle_adi": "Ahcıbaşı Mah (taşçılar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "3_2",
+        "mahalle_adi": "Ahlatcı Mah (abay Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "18_2",
+        "mahalle_adi": "Akdoğan Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "19_2",
+        "mahalle_adi": "Akdoğantekke Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "235_2",
+        "mahalle_adi": "Akhasan Mah (kapaklı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "241_2",
+        "mahalle_adi": "Akıllıoğlu Mah (karacakaya Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "20_2",
+        "mahalle_adi": "Akseki Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "21_2",
+        "mahalle_adi": "Alamabatak Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "24_2",
+        "mahalle_adi": "Alasökü Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "267_2",
+        "mahalle_adi": "Alhan Mah (kayapınar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "73_2",
+        "mahalle_adi": "Alibey Mah (boyundurcak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "300_2",
+        "mahalle_adi": "Alibeygıran Mah (koçanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "53_2",
+        "mahalle_adi": "Alıççık Mah (badembekdemir Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "381_2",
+        "mahalle_adi": "Aptal Mah (şahinçatı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "165_2",
+        "mahalle_adi": "Aptalgazi Mah (doymuş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "182_2",
+        "mahalle_adi": "Arapoğlu Mah (eskioğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "9_2",
+        "mahalle_adi": "Aşağı Boyalı Mah (akçakese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "116_2",
+        "mahalle_adi": "Aşağı Çiftkıran Mah (çiftkıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "148_2",
+        "mahalle_adi": "Aşağı Derekaraagaç Mah (derekaraağaç Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "129_2",
+        "mahalle_adi": "Aşağı Köseoğlu Mah (çit Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "109_2",
+        "mahalle_adi": "Aşağı Mah (çetmi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "307_2",
+        "mahalle_adi": "Aşağı Mah (köçekli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "398_2",
+        "mahalle_adi": "Aşağı Tokaş Mah (tokaş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "43_2",
+        "mahalle_adi": "Aşağıçayırcık Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "44_2",
+        "mahalle_adi": "Aşağıçit Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "123_2",
+        "mahalle_adi": "Aşağıtelli Mah (çiftlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "227_2",
+        "mahalle_adi": "Asarcık Mah (incesu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "358_2",
+        "mahalle_adi": "Aşıkçı Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "233_2",
+        "mahalle_adi": "Avdullar Mah (kapaklı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "255_2",
+        "mahalle_adi": "Avdullu Mah (karnıaçık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "326_2",
+        "mahalle_adi": "Ayvalca Mah (obrucak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "2_1",
+        "mahalle_adi": "Bahçelievler Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "363_2",
+        "mahalle_adi": "Baltacı Mah (samanlıören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "93_2",
+        "mahalle_adi": "Bardakçı Mah (çambaşı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "226_2",
+        "mahalle_adi": "Başören Mah (incesu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "52_2",
+        "mahalle_adi": "Bayam Merkez Mah (badembekdemir Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "321_2",
+        "mahalle_adi": "Bayırlı Mah (küçüksü Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "355_2",
+        "mahalle_adi": "Bayram Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "54_2",
+        "mahalle_adi": "Bekdemir Mah (badembekdemir Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "60_2",
+        "mahalle_adi": "Bekir Mah (bekdemirekşi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "183_2",
+        "mahalle_adi": "Bektaş Mah (eskioğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "417_2",
+        "mahalle_adi": "Belençayır Mah (yeniler Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "32_2",
+        "mahalle_adi": "Birzadeoğlu Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "92_2",
+        "mahalle_adi": "Bodur Mah (çambaşı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "388_2",
+        "mahalle_adi": "Boşnaklar Mah (taşçılar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "40_2",
+        "mahalle_adi": "Bozarmut Mah (arslanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "222_2",
+        "mahalle_adi": "Boztepe Mah (imamoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "77_2",
+        "mahalle_adi": "Bulak Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "125_2",
+        "mahalle_adi": "Burhan Mah (çiftlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "38_2",
+        "mahalle_adi": "Bürüm Mah (arslanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "102_2",
+        "mahalle_adi": "Büyük Sapaca Mah (çaylaklar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "130_2",
+        "mahalle_adi": "Çağa Mah (çit Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "59_2",
+        "mahalle_adi": "Çakır Mah (bekdemirekşi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "359_2",
+        "mahalle_adi": "Çakırekin Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "327_2",
+        "mahalle_adi": "Calay Mah (obrucak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "309_2",
+        "mahalle_adi": "Çaloğlu Mah (kuyluş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "3_1",
+        "mahalle_adi": "Camikebir Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "238_2",
+        "mahalle_adi": "Çamlı Mah (kapaklı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "426_2",
+        "mahalle_adi": "Çarıklı Mah (yukarıemerce Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "11_2",
+        "mahalle_adi": "Çat Deresi Mah (akçakese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "205_2",
+        "mahalle_adi": "Çattepe Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "288_2",
+        "mahalle_adi": "Çavuş Mah (kızılkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "345_2",
+        "mahalle_adi": "Çay Mah (örhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "333_2",
+        "mahalle_adi": "Cebeci Mah (orta Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "36_2",
+        "mahalle_adi": "Cevizli Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "126_2",
+        "mahalle_adi": "Çiftlik Mah (çiftlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "174_2",
+        "mahalle_adi": "Çiğdemli Mah (erik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "396_2",
+        "mahalle_adi": "Çilingir Mah (tepedelik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "142_2",
+        "mahalle_adi": "Çimbek Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "323_2",
+        "mahalle_adi": "Çirpici Mah (masatlar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "274_2",
+        "mahalle_adi": "Civelek Mah (kılıçlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "96_2",
+        "mahalle_adi": "Ciyar Mah (çaycevher Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "353_2",
+        "mahalle_adi": "Çoban Mah (paşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "336_2",
+        "mahalle_adi": "Çördü Mah (ortaöz Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "269_2",
+        "mahalle_adi": "Çünür Mah (kaygınca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "206_2",
+        "mahalle_adi": "Curalı Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "250_2",
+        "mahalle_adi": "Davutpaşa Mah (karapürçek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "118_2",
+        "mahalle_adi": "Değirmi Mah (çiftkıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "29_2",
+        "mahalle_adi": "Delialişler Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "198_2",
+        "mahalle_adi": "Delibeyoğlu Mah (güneykalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "155_2",
+        "mahalle_adi": "Deliimam Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "156_2",
+        "mahalle_adi": "Delmece Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "140_2",
+        "mahalle_adi": "Demirci Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "71_2",
+        "mahalle_adi": "Dere Mah (boyundurcak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "100_2",
+        "mahalle_adi": "Dere Mah (çaykirpi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "313_2",
+        "mahalle_adi": "Dere Mah (kuzkalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "411_2",
+        "mahalle_adi": "Derecik Mah (yavuçkuyucağı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "259_2",
+        "mahalle_adi": "Derekoru Mah (kayadibi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "14_2",
+        "mahalle_adi": "Derencik Mah (akçakese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "151_2",
+        "mahalle_adi": "Dikmen Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "48_2",
+        "mahalle_adi": "Dikmendibi Mah (aşağışehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "231_2",
+        "mahalle_adi": "Diller Mah (kabalar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "88_2",
+        "mahalle_adi": "Dolay Mah (celep Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "208_2",
+        "mahalle_adi": "Dolaydere Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "169_2",
+        "mahalle_adi": "Donaşalar Mah (duruca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "214_2",
+        "mahalle_adi": "Dongin Mah (hoca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "154_2",
+        "mahalle_adi": "Dopaloğlu Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "137_2",
+        "mahalle_adi": "Düğenözü Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "147_2",
+        "mahalle_adi": "Duman Mah (derekaraağaç Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "225_2",
+        "mahalle_adi": "Duşluk Mah (incesu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "56_2",
+        "mahalle_adi": "Ekşioğlu Mah (bekdemirekşi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "399_2",
+        "mahalle_adi": "Ellez Mah (tokaş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "188_2",
+        "mahalle_adi": "Emir Mah (garipşah Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "191_2",
+        "mahalle_adi": "Emirler Mah (gündoğdu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "210_2",
+        "mahalle_adi": "Erikyatsı Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "175_2",
+        "mahalle_adi": "Ersil Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "430_2",
+        "mahalle_adi": "Ersizli Mah (yukarışehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "316_2",
+        "mahalle_adi": "Eselli Mah (kuzkalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "429_2",
+        "mahalle_adi": "Esenler Mah (yukarışehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "57_2",
+        "mahalle_adi": "Eski Mah (bekdemirekşi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "368_2",
+        "mahalle_adi": "Eski Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "4_1",
+        "mahalle_adi": "Ethem Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "35_2",
+        "mahalle_adi": "Eymür Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "273_2",
+        "mahalle_adi": "Fıçı Mah (kılıçlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "301_2",
+        "mahalle_adi": "Gadı Mah (koçanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "162_2",
+        "mahalle_adi": "Ganioğlu Mah (donalar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "13_2",
+        "mahalle_adi": "Garipoğlu Mah (akçakese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "264_2",
+        "mahalle_adi": "Gerze Mah (kayapınar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "5_1",
+        "mahalle_adi": "Gizlice Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "244_2",
+        "mahalle_adi": "Göç Mah (karacaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "6_1",
+        "mahalle_adi": "Gökırmak Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "412_2",
+        "mahalle_adi": "Görpe Mah (yavuçkuyucağı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "262_2",
+        "mahalle_adi": "Göynük Mah (kayadibi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "27_2",
+        "mahalle_adi": "Güllü Mah (alipaşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "51_2",
+        "mahalle_adi": "Güney Mah (ayvalı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "194_2",
+        "mahalle_adi": "Güney Mah (güneykalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "265_2",
+        "mahalle_adi": "Güneycük Mah (kayapınar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "215_2",
+        "mahalle_adi": "Guz Mah (hoca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "308_2",
+        "mahalle_adi": "Güzören Mah (köçekli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "70_2",
+        "mahalle_adi": "Guzsökü Mah (bey Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "199_2",
+        "mahalle_adi": "Hacıali Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "303_2",
+        "mahalle_adi": "Hacıali Mah (kornapa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "405_2",
+        "mahalle_adi": "Hacılar Mah (vakıfbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "419_2",
+        "mahalle_adi": "Hacılar Mah (yoğunoluk Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "190_2",
+        "mahalle_adi": "Haliloğlu Mah (gündoğdu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "403_2",
+        "mahalle_adi": "Hallo Mah (uzunkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "352_2",
+        "mahalle_adi": "Hamdullah Mah (paşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "7_1",
+        "mahalle_adi": "Harmancık Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "331_2",
+        "mahalle_adi": "Hataplı Mah (olukbaşı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "186_2",
+        "mahalle_adi": "Hatip Mah (garipşah Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "317_2",
+        "mahalle_adi": "Hatip Mah (kuzkalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "354_2",
+        "mahalle_adi": "Hayır Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "427_2",
+        "mahalle_adi": "Haznedar Mah (yukarıemerce Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "246_2",
+        "mahalle_adi": "Hebiloglu Mah (karadedeoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "65_2",
+        "mahalle_adi": "İkipınar Mah (bey Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "221_2",
+        "mahalle_adi": "İkizler Mah (imamoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "97_2",
+        "mahalle_adi": "İmam Mah (çaycevher Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "141_2",
+        "mahalle_adi": "İmam Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "15_2",
+        "mahalle_adi": "İmamlar Mah (akdeğirmen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "296_2",
+        "mahalle_adi": "İmamlar Mah (kirazcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "351_2",
+        "mahalle_adi": "İmirler Mah (paşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "106_2",
+        "mahalle_adi": "İnceöz Mah (çekiç Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "76_2",
+        "mahalle_adi": "İprim Yaylası Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "297_2",
+        "mahalle_adi": "Kabala Mah (kirazcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "207_2",
+        "mahalle_adi": "Kabaş Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "389_2",
+        "mahalle_adi": "Kadı Kızı Mah (taşçılar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "232_2",
+        "mahalle_adi": "Kadı Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "295_2",
+        "mahalle_adi": "Kadılar Mah (kirazcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "294_2",
+        "mahalle_adi": "Kadıoğlu Mah (kirazcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "47_2",
+        "mahalle_adi": "Kalaşlı Mah (aşağışehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "110_2",
+        "mahalle_adi": "Kalaycı Mah (çetmi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "281_2",
+        "mahalle_adi": "Kalfalı Mah (kızılcaören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "332_2",
+        "mahalle_adi": "Kapanlı Mah (orta Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "379_2",
+        "mahalle_adi": "Kapucu Mah (şahinçatı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "349_2",
+        "mahalle_adi": "Karaağaç Mah (paşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "383_2",
+        "mahalle_adi": "Karaağaç Mah (şahinçatı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "258_2",
+        "mahalle_adi": "Karaburun Mah (kayadibi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "263_2",
+        "mahalle_adi": "Karaburun Yayla Evi Mah (kayadibi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "229_2",
+        "mahalle_adi": "Karaçallık Mah (incesu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "360_2",
+        "mahalle_adi": "Karadüren Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "280_2",
+        "mahalle_adi": "Karagülle Mah (kızılcaören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "82_2",
+        "mahalle_adi": "Karağuz Yaylası Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "78_2",
+        "mahalle_adi": "Karamahmut Yaylası Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "12_2",
+        "mahalle_adi": "Karapınar Mah (akçakese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "8_1",
+        "mahalle_adi": "Karasait Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "49_2",
+        "mahalle_adi": "Karayılan Mah (aşağışehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "120_2",
+        "mahalle_adi": "Kargacık Mah (çiftkıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "41_2",
+        "mahalle_adi": "Karşı Bürüm Mah (arslanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "257_2",
+        "mahalle_adi": "Karşı Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "173_2",
+        "mahalle_adi": "Karşı Mah (erik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "371_2",
+        "mahalle_adi": "Kavacı Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "237_2",
+        "mahalle_adi": "Kavacık Mah (kapaklı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "369_2",
+        "mahalle_adi": "Kavacık Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "228_2",
+        "mahalle_adi": "Kavak Mah (incesu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "299_2",
+        "mahalle_adi": "Kayabaşı Mah (koçanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "196_2",
+        "mahalle_adi": "Kel Mah (güneykalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "185_2",
+        "mahalle_adi": "Keller Mah (garipşah Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "62_2",
+        "mahalle_adi": "Kello Mah (bekirli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "179_2",
+        "mahalle_adi": "Keloğlu Mah (esenlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "202_2",
+        "mahalle_adi": "Kelönü Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "17_2",
+        "mahalle_adi": "Kendiroğlu Mah (akdeğirmen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "112_2",
+        "mahalle_adi": "Kerimler Mah (çetmi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "166_2",
+        "mahalle_adi": "Kerpüc Mah (doymuş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "310_2",
+        "mahalle_adi": "Kesercioğlu Mah (kuyluş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "291_2",
+        "mahalle_adi": "Ketenler Mah (kirazcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "328_2",
+        "mahalle_adi": "Keyiş Mah (obrucak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "153_2",
+        "mahalle_adi": "Kılavuz Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "219_2",
+        "mahalle_adi": "Kıran Mah (hoca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "315_2",
+        "mahalle_adi": "Kıran Mah (kuzkalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "152_2",
+        "mahalle_adi": "Kirensöküsü Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "278_2",
+        "mahalle_adi": "Kırha Köyü",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "286_2",
+        "mahalle_adi": "Kirlik Mah (kızılcaörhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "101_2",
+        "mahalle_adi": "Kirpo Mah (çaykirpi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "150_2",
+        "mahalle_adi": "Kızılcıelma Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "342_2",
+        "mahalle_adi": "Koca Mah (ömerli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "378_2",
+        "mahalle_adi": "Koçcuaz Mah (sarpun Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "367_2",
+        "mahalle_adi": "Kolcu Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "30_2",
+        "mahalle_adi": "Köle Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "42_2",
+        "mahalle_adi": "Köloğlu Mah (arslanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "254_2",
+        "mahalle_adi": "Köloğlu Mah (karnıaçık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "111_2",
+        "mahalle_adi": "Köse Mah (çetmi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "275_2",
+        "mahalle_adi": "Köseli Mah (kılıçlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "306_2",
+        "mahalle_adi": "Köyiçi Mah (köçekli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "415_2",
+        "mahalle_adi": "Kozluca Mah (yeniler Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "103_2",
+        "mahalle_adi": "Küçük Sapaca Mah (çaylaklar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "304_2",
+        "mahalle_adi": "Küçükkuyluş Mah (kornapa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "204_2",
+        "mahalle_adi": "Kurdün Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "138_2",
+        "mahalle_adi": "Kürt Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "236_2",
+        "mahalle_adi": "Kuru Çavuşlar Mah (kapaklı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "160_2",
+        "mahalle_adi": "Kuştepe Mah (dilek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "67_2",
+        "mahalle_adi": "Kuycak Mah (bey Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "144_2",
+        "mahalle_adi": "Kuzguncuk 2 Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "143_2",
+        "mahalle_adi": "Kuzguncuk Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "282_2",
+        "mahalle_adi": "Malak Mah (kızılcaörhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "167_2",
+        "mahalle_adi": "Mandıra Mah (doymuş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "33_2",
+        "mahalle_adi": "Matır Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "81_2",
+        "mahalle_adi": "Mayhar Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "216_2",
+        "mahalle_adi": "Mehter Mah (hoca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "394_2",
+        "mahalle_adi": "Memioğlu Mah (tekeoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "410_2",
+        "mahalle_adi": "Mencügez Mah (yavuçkuyucağı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "1_2",
+        "mahalle_adi": "Merkez Mah (abay Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "5_2",
+        "mahalle_adi": "Merkez Mah (abdalhasan Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "7_2",
+        "mahalle_adi": "Merkez Mah (afşar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "8_2",
+        "mahalle_adi": "Merkez Mah (akçakese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "22_2",
+        "mahalle_adi": "Merkez Mah (alamakayış Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "23_2",
+        "mahalle_adi": "Merkez Mah (alamaşişli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "25_2",
+        "mahalle_adi": "Merkez Mah (alatarla Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "26_2",
+        "mahalle_adi": "Merkez Mah (alipaşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "28_2",
+        "mahalle_adi": "Merkez Mah (alisaray Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "34_2",
+        "mahalle_adi": "Merkez Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "37_2",
+        "mahalle_adi": "Merkez Mah (arslanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "45_2",
+        "mahalle_adi": "Merkez Mah (aşağıemerce Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "50_2",
+        "mahalle_adi": "Merkez Mah (ayvalı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "55_2",
+        "mahalle_adi": "Merkez Mah (bademci Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "61_2",
+        "mahalle_adi": "Merkez Mah (bekirli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "66_2",
+        "mahalle_adi": "Merkez Mah (bey Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "83_2",
+        "mahalle_adi": "Merkez Mah (böcü Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "74_2",
+        "mahalle_adi": "Merkez Mah (boyundurcak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "75_2",
+        "mahalle_adi": "Merkez Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "85_2",
+        "mahalle_adi": "Merkez Mah (bük Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "91_2",
+        "mahalle_adi": "Merkez Mah (çambaşı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "99_2",
+        "mahalle_adi": "Merkez Mah (çaykirpi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "104_2",
+        "mahalle_adi": "Merkez Mah (çaylaklar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "105_2",
+        "mahalle_adi": "Merkez Mah (çekiç Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "87_2",
+        "mahalle_adi": "Merkez Mah (celep Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "114_2",
+        "mahalle_adi": "Merkez Mah (çevik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "115_2",
+        "mahalle_adi": "Merkez Mah (çiftkıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "122_2",
+        "mahalle_adi": "Merkez Mah (çiftlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "127_2",
+        "mahalle_adi": "Merkez Mah (çit Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "134_2",
+        "mahalle_adi": "Merkez Mah (çördük Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "131_2",
+        "mahalle_adi": "Merkez Mah (çoroğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "157_2",
+        "mahalle_adi": "Merkez Mah (dere Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "145_2",
+        "mahalle_adi": "Merkez Mah (derebeysibey Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "161_2",
+        "mahalle_adi": "Merkez Mah (dilek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "163_2",
+        "mahalle_adi": "Merkez Mah (donalar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "164_2",
+        "mahalle_adi": "Merkez Mah (doymuş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "168_2",
+        "mahalle_adi": "Merkez Mah (duruca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "171_2",
+        "mahalle_adi": "Merkez Mah (erik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "176_2",
+        "mahalle_adi": "Merkez Mah (esenlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "180_2",
+        "mahalle_adi": "Merkez Mah (eskiatça Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "181_2",
+        "mahalle_adi": "Merkez Mah (eskioğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "184_2",
+        "mahalle_adi": "Merkez Mah (garipşah Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "189_2",
+        "mahalle_adi": "Merkez Mah (gündoğdu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "211_2",
+        "mahalle_adi": "Merkez Mah (hasanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "213_2",
+        "mahalle_adi": "Merkez Mah (hoca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "220_2",
+        "mahalle_adi": "Merkez Mah (imamoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "223_2",
+        "mahalle_adi": "Merkez Mah (incesu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "230_2",
+        "mahalle_adi": "Merkez Mah (kabalar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "243_2",
+        "mahalle_adi": "Merkez Mah (karacaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "247_2",
+        "mahalle_adi": "Merkez Mah (karadedeoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "248_2",
+        "mahalle_adi": "Merkez Mah (karapürçek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "261_2",
+        "mahalle_adi": "Merkez Mah (kayadibi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "266_2",
+        "mahalle_adi": "Merkez Mah (kayapınar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "270_2",
+        "mahalle_adi": "Merkez Mah (kaygınca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "271_2",
+        "mahalle_adi": "Merkez Mah (kese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "272_2",
+        "mahalle_adi": "Merkez Mah (kılıçlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "276_2",
+        "mahalle_adi": "Merkez Mah (kıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "293_2",
+        "mahalle_adi": "Merkez Mah (kirazcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "279_2",
+        "mahalle_adi": "Merkez Mah (kızılcaören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "283_2",
+        "mahalle_adi": "Merkez Mah (kızılcaörhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "287_2",
+        "mahalle_adi": "Merkez Mah (kızılkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "298_2",
+        "mahalle_adi": "Merkez Mah (koçanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "302_2",
+        "mahalle_adi": "Merkez Mah (kornapa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "319_2",
+        "mahalle_adi": "Merkez Mah (küçüksü Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "322_2",
+        "mahalle_adi": "Merkez Mah (masatlar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "325_2",
+        "mahalle_adi": "Merkez Mah (obrucak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "330_2",
+        "mahalle_adi": "Merkez Mah (olukbaşı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "341_2",
+        "mahalle_adi": "Merkez Mah (ömerli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "343_2",
+        "mahalle_adi": "Merkez Mah (örhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "347_2",
+        "mahalle_adi": "Merkez Mah (örhenli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "334_2",
+        "mahalle_adi": "Merkez Mah (orta Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "337_2",
+        "mahalle_adi": "Merkez Mah (ortaöz Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "339_2",
+        "mahalle_adi": "Merkez Mah (oymaağaçseki Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "348_2",
+        "mahalle_adi": "Merkez Mah (paşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "357_2",
+        "mahalle_adi": "Merkez Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "362_2",
+        "mahalle_adi": "Merkez Mah (samanlıören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "364_2",
+        "mahalle_adi": "Merkez Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "372_2",
+        "mahalle_adi": "Merkez Mah (sarıseki Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "375_2",
+        "mahalle_adi": "Merkez Mah (sarpun Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "386_2",
+        "mahalle_adi": "Merkez Mah (taşçılar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "392_2",
+        "mahalle_adi": "Merkez Mah (tavukçuoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "393_2",
+        "mahalle_adi": "Merkez Mah (tekeoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "395_2",
+        "mahalle_adi": "Merkez Mah (tepedelik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "397_2",
+        "mahalle_adi": "Merkez Mah (tokaş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "400_2",
+        "mahalle_adi": "Merkez Mah (urgancı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "401_2",
+        "mahalle_adi": "Merkez Mah (uzunkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "404_2",
+        "mahalle_adi": "Merkez Mah (vakıfbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "406_2",
+        "mahalle_adi": "Merkez Mah (yavuç Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "407_2",
+        "mahalle_adi": "Merkez Mah (yavuçkuyucağı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "413_2",
+        "mahalle_adi": "Merkez Mah (yazıhamit Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "414_2",
+        "mahalle_adi": "Merkez Mah (yeniler Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "418_2",
+        "mahalle_adi": "Merkez Mah (yeşilyurt Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "424_2",
+        "mahalle_adi": "Merkez Mah (yukarıçayırcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "425_2",
+        "mahalle_adi": "Merkez Mah (yukarıemerce Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "428_2",
+        "mahalle_adi": "Merkez Mah (yukarışehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "245_2",
+        "mahalle_adi": "Meşeli Mah (karacaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "178_2",
+        "mahalle_adi": "Mollaoglu Mah (esenlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "136_2",
+        "mahalle_adi": "Mopak Mah (çördük Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "361_2",
+        "mahalle_adi": "Murat Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "289_2",
+        "mahalle_adi": "Musa Mah (kızılkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "9_1",
+        "mahalle_adi": "Musalla Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "72_2",
+        "mahalle_adi": "Müseyit Mah (boyundurcak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "79_2",
+        "mahalle_adi": "Muşurup Yaylası Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "2_2",
+        "mahalle_adi": "Mütevelli Mah (abay Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "380_2",
+        "mahalle_adi": "Okcu Mah (şahinçatı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "119_2",
+        "mahalle_adi": "Öküzcü Mah (çiftkıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "253_2",
+        "mahalle_adi": "Örencik Mah (karnıaçık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "350_2",
+        "mahalle_adi": "Örencik Mah (paşa Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "132_2",
+        "mahalle_adi": "Orta Mah (çoroğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "240_2",
+        "mahalle_adi": "Orta Mah (karacakaya Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "335_2",
+        "mahalle_adi": "Orta Mah (orta Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "377_2",
+        "mahalle_adi": "Orta Mah (sarpun Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "260_2",
+        "mahalle_adi": "Ortaköy Mah (kayadibi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "124_2",
+        "mahalle_adi": "Ortatelli Mah (çiftlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "292_2",
+        "mahalle_adi": "Oruçlu Mah (kirazcık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "107_2",
+        "mahalle_adi": "Öte Mah (çetmi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "201_2",
+        "mahalle_adi": "Öte Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "384_2",
+        "mahalle_adi": "Otmanlar Mah (şehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "209_2",
+        "mahalle_adi": "Oymaağaç Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "193_2",
+        "mahalle_adi": "Pazar Mah (güneykalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "305_2",
+        "mahalle_adi": "Pazaryeri Mah (köçekli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "16_2",
+        "mahalle_adi": "Pircabey Mah (akdeğirmen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "10_1",
+        "mahalle_adi": "Pulcular Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "256_2",
+        "mahalle_adi": "Pulfalı Mah (karnıaçık Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "135_2",
+        "mahalle_adi": "Purtul Mah (çördük Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "365_2",
+        "mahalle_adi": "Puşlu Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "366_2",
+        "mahalle_adi": "Rahat Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "98_2",
+        "mahalle_adi": "Ramazan Mah (çaycevher Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "172_2",
+        "mahalle_adi": "Şaban Mah (erik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "31_2",
+        "mahalle_adi": "Şabanbey Mah (armutlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "64_2",
+        "mahalle_adi": "Şabanlar Mah (bekirli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "320_2",
+        "mahalle_adi": "Sakız Mah (küçüksü Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "249_2",
+        "mahalle_adi": "Salihoğlu Mah (karapürçek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "285_2",
+        "mahalle_adi": "Salmanlı Mah (kızılcaörhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "239_2",
+        "mahalle_adi": "Saraycık Mah (kapaklı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "408_2",
+        "mahalle_adi": "Sarı Mah (yavuçkuyucağı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "391_2",
+        "mahalle_adi": "Sarıaoğlu Mah (taşçılar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "370_2",
+        "mahalle_adi": "Sarıkavak Mah (sarıkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "212_2",
+        "mahalle_adi": "Sarılar Mah (hasanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "80_2",
+        "mahalle_adi": "Sarpun Mah (bozarmut Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "385_2",
+        "mahalle_adi": "Şehirören Mah (şehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "329_2",
+        "mahalle_adi": "Sergenler Mah (obrucak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "69_2",
+        "mahalle_adi": "Sey Mah (bey Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "170_2",
+        "mahalle_adi": "Seyitler Mah (duruca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "89_2",
+        "mahalle_adi": "Sıcak Tarla Mah (celep Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "117_2",
+        "mahalle_adi": "Sipahi Mah (çiftkıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "158_2",
+        "mahalle_adi": "Softa Mah (dilek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "197_2",
+        "mahalle_adi": "Soğanlar Mah (güneykalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "268_2",
+        "mahalle_adi": "Sökü Mah (kaygınca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "217_2",
+        "mahalle_adi": "Sorguncuk Mah (hoca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "251_2",
+        "mahalle_adi": "Söylemez Mah (karapürçek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "376_2",
+        "mahalle_adi": "Süle Mah (sarpun Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "4_2",
+        "mahalle_adi": "Suluoğlu Mah (abay Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "11_1",
+        "mahalle_adi": "Sümer Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "12_1",
+        "mahalle_adi": "Tabakhane Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "284_2",
+        "mahalle_adi": "Tahtak Mah (kızılcaörhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "346_2",
+        "mahalle_adi": "Taşkapı Mah (örhenli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "149_2",
+        "mahalle_adi": "Tekeoğlu Mah (derekaraağaç Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "86_2",
+        "mahalle_adi": "Tekev Mah (bük Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "13_1",
+        "mahalle_adi": "Tekke Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "312_2",
+        "mahalle_adi": "Tekke Mah (kuyluş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "356_2",
+        "mahalle_adi": "Tekkeoğlu Mah (pirahmetli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "139_2",
+        "mahalle_adi": "Telli Mah (dağbelören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "133_2",
+        "mahalle_adi": "Tembel Mah (çoroğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "318_2",
+        "mahalle_adi": "Temür Mah (kuzkalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "423_2",
+        "mahalle_adi": "Tenbeller Mah (yoğunoluk Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "420_2",
+        "mahalle_adi": "Tepe Arkası Mah (yoğunoluk Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "58_2",
+        "mahalle_adi": "Tepe Mah (bekdemirekşi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "84_2",
+        "mahalle_adi": "Tepe Mah (böcü Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "95_2",
+        "mahalle_adi": "Tepe Mah (çaycevher Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "159_2",
+        "mahalle_adi": "Tepe Mah (dilek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "200_2",
+        "mahalle_adi": "Tepe Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "203_2",
+        "mahalle_adi": "Tikendere Mah (hamzaoğlu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "409_2",
+        "mahalle_adi": "Topalak Mah (yavuçkuyucağı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "290_2",
+        "mahalle_adi": "Topçu Mah (kızılkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "421_2",
+        "mahalle_adi": "Topuzlar Mah (yoğunoluk Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "224_2",
+        "mahalle_adi": "Toroş Mah (incesu Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "46_2",
+        "mahalle_adi": "Türkmenler Mah (aşağışehirören Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "234_2",
+        "mahalle_adi": "Tütenli Mah (kapaklı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "14_1",
+        "mahalle_adi": "Üstatlar Mah",
+        "posta_kodu": "37400"
+    },
+    {
+        "mahalle_id": "373_2",
+        "mahalle_adi": "Üzüktaş Mah (sarıseki Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "382_2",
+        "mahalle_adi": "Veyselli Mah (şahinçatı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "422_2",
+        "mahalle_adi": "Yağanlı Mah (yoğunoluk Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "314_2",
+        "mahalle_adi": "Yahya Mah (kuzkalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "344_2",
+        "mahalle_adi": "Yaka Mah (örhen Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "374_2",
+        "mahalle_adi": "Yalak Mah (sarıseki Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "416_2",
+        "mahalle_adi": "Yalak Mah (yeniler Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "6_2",
+        "mahalle_adi": "Yayla Mah (abdalhasan Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "218_2",
+        "mahalle_adi": "Yayla Mah (hoca Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "94_2",
+        "mahalle_adi": "Yazıcıoğlu Mah (çambaşı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "311_2",
+        "mahalle_adi": "Yemişenlioğlu Mah (kuyluş Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "108_2",
+        "mahalle_adi": "Yeni Mah (çetmi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "195_2",
+        "mahalle_adi": "Yeni Mah (güneykalınkese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "252_2",
+        "mahalle_adi": "Yeni Mah (karapürçek Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "277_2",
+        "mahalle_adi": "Yeni Mah (kıran Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "63_2",
+        "mahalle_adi": "Yeniçoroğlu Mah (bekirli Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "90_2",
+        "mahalle_adi": "Yılanca Mah (celep Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "39_2",
+        "mahalle_adi": "Yukarı Arslanlı Mah (arslanlı Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "10_2",
+        "mahalle_adi": "Yukarı Boyalı Mah (akçakese Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "146_2",
+        "mahalle_adi": "Yukarı Derekaraağaç Mah (derekaraağaç Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "128_2",
+        "mahalle_adi": "Yukarı Köseoğlu Mah (çit Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "113_2",
+        "mahalle_adi": "Yukarı Mah (çetmi Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "177_2",
+        "mahalle_adi": "Yukarı Mah (esenlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "242_2",
+        "mahalle_adi": "Yukarı Mah (karacakaya Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "402_2",
+        "mahalle_adi": "Yukarı Mah (uzunkavak Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "390_2",
+        "mahalle_adi": "Yukarı Oba Mah (taşçılar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "340_2",
+        "mahalle_adi": "Yukarı Seki Mah (oymaağaçseki Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "324_2",
+        "mahalle_adi": "Yukarıhatipler Mah (masatlar Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "121_2",
+        "mahalle_adi": "Yukarıtelli Mah (çiftlik Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "187_2",
+        "mahalle_adi": "Yunuslu Mah (garipşah Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "338_2",
+        "mahalle_adi": "Yüzhanlı Mah (ortaöz Köyü)",
+        "posta_kodu": "37402"
+    },
+    {
+        "mahalle_id": "192_2",
+        "mahalle_adi": "Zeybek Mah (güneykalınkese Köyü)",
+        "posta_kodu": "37402"
+    }
+]

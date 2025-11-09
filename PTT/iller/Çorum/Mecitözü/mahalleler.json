@@ -1,0 +1,352 @@
+[
+    {
+        "mahalle_id": "1_2",
+        "mahalle_adi": "Ağcakoyun Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "2_2",
+        "mahalle_adi": "Akpınar Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "3_2",
+        "mahalle_adi": "Alancık Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "4_2",
+        "mahalle_adi": "Alören Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "13_2",
+        "mahalle_adi": "Aşağı Mah (boyacı Köyü)",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "5_2",
+        "mahalle_adi": "Aşağıkörücek Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "1_1",
+        "mahalle_adi": "Bahçelievler Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "9_1",
+        "mahalle_adi": "Bahçelievler Mah (elvançelebi Köyü)",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "6_2",
+        "mahalle_adi": "Bayındır Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "7_2",
+        "mahalle_adi": "Bekişler Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "10_2",
+        "mahalle_adi": "Beyözü Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "11_2",
+        "mahalle_adi": "Boğazkaya Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "12_2",
+        "mahalle_adi": "Boyacı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "14_2",
+        "mahalle_adi": "Bükse Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "9_2",
+        "mahalle_adi": "Çam Bekiş Mah (bekişler Köyü)",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "2_1",
+        "mahalle_adi": "Camikebir Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "10_1",
+        "mahalle_adi": "Çamlık Mah (elvançelebi Köyü)",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "15_2",
+        "mahalle_adi": "Çayköy Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "16_2",
+        "mahalle_adi": "Çitli Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "17_2",
+        "mahalle_adi": "Dağsaray Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "11_1",
+        "mahalle_adi": "Dediği Mah (elvançelebi Köyü)",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "18_2",
+        "mahalle_adi": "Devletoğlanı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "19_2",
+        "mahalle_adi": "Doğla Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "3_1",
+        "mahalle_adi": "Doğu Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "8_2",
+        "mahalle_adi": "Doruk Bekiş Mah (bekişler Köyü)",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "20_2",
+        "mahalle_adi": "Elmapınar Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "21_2",
+        "mahalle_adi": "Emirbağı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "22_2",
+        "mahalle_adi": "Fakıahmet Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "24_2",
+        "mahalle_adi": "Figani Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "23_2",
+        "mahalle_adi": "Fındıklı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "26_2",
+        "mahalle_adi": "Geykoca Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "27_2",
+        "mahalle_adi": "Gökçebel Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "28_2",
+        "mahalle_adi": "Güngörmez Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "4_1",
+        "mahalle_adi": "Hıdırlık Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "29_2",
+        "mahalle_adi": "Hisarkavak Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "31_2",
+        "mahalle_adi": "İbek Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "30_2",
+        "mahalle_adi": "Işıklı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "32_2",
+        "mahalle_adi": "Kalecik Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "33_2",
+        "mahalle_adi": "Karacaören Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "34_2",
+        "mahalle_adi": "Karacuma Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "36_2",
+        "mahalle_adi": "Kargı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "37_2",
+        "mahalle_adi": "Kayı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "38_2",
+        "mahalle_adi": "Kışlacık Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "25_2",
+        "mahalle_adi": "Koloğlu Mah (figani Köyü)",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "39_2",
+        "mahalle_adi": "Konaç Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "42_2",
+        "mahalle_adi": "Köprübaşı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "43_2",
+        "mahalle_adi": "Körücek Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "44_2",
+        "mahalle_adi": "Köseeyüp Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "40_2",
+        "mahalle_adi": "Koyunağılı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "41_2",
+        "mahalle_adi": "Kozören Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "45_2",
+        "mahalle_adi": "Kuyucak Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "5_1",
+        "mahalle_adi": "Mescit Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "35_2",
+        "mahalle_adi": "Mollacop Mah (karacuma Köyü)",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "46_2",
+        "mahalle_adi": "Pınarbaşı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "59_2",
+        "mahalle_adi": "Pınarbaşı Mah (pınarbaşı Köyü)",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "6_1",
+        "mahalle_adi": "Sarıdede Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "47_2",
+        "mahalle_adi": "Sarıhasan Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "7_1",
+        "mahalle_adi": "Şeyhler Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "48_2",
+        "mahalle_adi": "Sırçalı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "50_2",
+        "mahalle_adi": "Söğütönü Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "51_2",
+        "mahalle_adi": "Söğütyolu Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "49_2",
+        "mahalle_adi": "Sorkoğlanı Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "52_2",
+        "mahalle_adi": "Sülüklü Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "53_2",
+        "mahalle_adi": "Tanrıvermiş Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "54_2",
+        "mahalle_adi": "Terken Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "55_2",
+        "mahalle_adi": "Totali Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "8_1",
+        "mahalle_adi": "Tutluk Mah",
+        "posta_kodu": "19700"
+    },
+    {
+        "mahalle_id": "56_2",
+        "mahalle_adi": "Vakıflar Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "57_2",
+        "mahalle_adi": "Yedigöz Köyü",
+        "posta_kodu": "19702"
+    },
+    {
+        "mahalle_id": "58_2",
+        "mahalle_adi": "Yeşilova Köyü",
+        "posta_kodu": "19702"
+    }
+]

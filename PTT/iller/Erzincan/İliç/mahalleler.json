@@ -1,0 +1,372 @@
+[
+    {
+        "mahalle_id": "1_1",
+        "mahalle_adi": "Abdullah Paşa Mah",
+        "posta_kodu": "24700"
+    },
+    {
+        "mahalle_id": "46_2",
+        "mahalle_adi": "Akçayazı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "1_2",
+        "mahalle_adi": "Akdoğu Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "2_2",
+        "mahalle_adi": "Altıntaş Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "36_2",
+        "mahalle_adi": "Apuşta Mah (ağıldere Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "3_2",
+        "mahalle_adi": "Atma Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "41_2",
+        "mahalle_adi": "Bağderesi Mah (turgutlu Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "6_2",
+        "mahalle_adi": "Bağlıca Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "5_2",
+        "mahalle_adi": "Bahçecik Mah (bağıştaş Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "49_2",
+        "mahalle_adi": "Balkaya Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "8_2",
+        "mahalle_adi": "Boyalık Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "50_2",
+        "mahalle_adi": "Bozçalı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "9_2",
+        "mahalle_adi": "Bozyayla Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "10_2",
+        "mahalle_adi": "Bürüncek Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "32_2",
+        "mahalle_adi": "Büyükarmutlu Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "51_2",
+        "mahalle_adi": "Büyükgümüşlü Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "14_2",
+        "mahalle_adi": "Çaltı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "53_2",
+        "mahalle_adi": "Çayyaka Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "54_2",
+        "mahalle_adi": "Çiftlik Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "15_2",
+        "mahalle_adi": "Çilesiz Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "55_2",
+        "mahalle_adi": "Çobanlı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "16_2",
+        "mahalle_adi": "Çöpler Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "56_2",
+        "mahalle_adi": "Çörekli Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "57_2",
+        "mahalle_adi": "Dikmen Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "17_2",
+        "mahalle_adi": "Doğan Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "18_2",
+        "mahalle_adi": "Dolugün Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "38_2",
+        "mahalle_adi": "Doruksaray Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "19_2",
+        "mahalle_adi": "Dostal Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "2_1",
+        "mahalle_adi": "Fatih Mah",
+        "posta_kodu": "24700"
+    },
+    {
+        "mahalle_id": "52_2",
+        "mahalle_adi": "Garipçay Mah (çayyaka Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "58_2",
+        "mahalle_adi": "Güngören Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "7_2",
+        "mahalle_adi": "Hasanova Mah (boyalık Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "3_1",
+        "mahalle_adi": "İbrahim Çeçen Mah",
+        "posta_kodu": "24700"
+    },
+    {
+        "mahalle_id": "59_2",
+        "mahalle_adi": "İslamköy Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "20_2",
+        "mahalle_adi": "Kapıkaya Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "39_2",
+        "mahalle_adi": "Karakaya Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "21_2",
+        "mahalle_adi": "Kayacık Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "22_2",
+        "mahalle_adi": "Kaymaklı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "4_1",
+        "mahalle_adi": "Kazım Karabekir Mah",
+        "posta_kodu": "24700"
+    },
+    {
+        "mahalle_id": "60_2",
+        "mahalle_adi": "Konukcu Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "61_2",
+        "mahalle_adi": "Kozluca Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "40_2",
+        "mahalle_adi": "Küçükarmutlu Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "64_2",
+        "mahalle_adi": "Küçükgümüşlü Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "27_2",
+        "mahalle_adi": "Küplüce Mah (sarıkonak Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "62_2",
+        "mahalle_adi": "Kuran Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "63_2",
+        "mahalle_adi": "Kuzkışla Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "23_2",
+        "mahalle_adi": "Levent Pınarı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "33_2",
+        "mahalle_adi": "Merkez Mah (ağıldere Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "47_2",
+        "mahalle_adi": "Merkez Mah (bağcağız Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "4_2",
+        "mahalle_adi": "Merkez Mah (bağıştaş Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "11_2",
+        "mahalle_adi": "Merkez Mah (büyükköy Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "37_2",
+        "mahalle_adi": "Merkez Mah (çaylı Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "44_2",
+        "mahalle_adi": "Merkez Mah (kuruçay Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "34_2",
+        "mahalle_adi": "Orta Ağıldere Mah (ağıldere Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "24_2",
+        "mahalle_adi": "Ortatepe Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "65_2",
+        "mahalle_adi": "Özlü Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "25_2",
+        "mahalle_adi": "Sabırlı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "48_2",
+        "mahalle_adi": "Sağ Mah (bağcağız Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "26_2",
+        "mahalle_adi": "Sarıkonak Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "66_2",
+        "mahalle_adi": "Sarıpınar Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "28_2",
+        "mahalle_adi": "Sularbaşı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "67_2",
+        "mahalle_adi": "Sütlüce Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "68_2",
+        "mahalle_adi": "Tabanlı Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "45_2",
+        "mahalle_adi": "Tardere Mah (kuruçay Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "12_2",
+        "mahalle_adi": "Taşkonak Mah (büyükköy Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "42_2",
+        "mahalle_adi": "Turgutlu Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "69_2",
+        "mahalle_adi": "Uğur Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "29_2",
+        "mahalle_adi": "Uluyamaç Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "30_2",
+        "mahalle_adi": "Yakuplu Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "70_2",
+        "mahalle_adi": "Yalıngöze Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "31_2",
+        "mahalle_adi": "Yaylapınar Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "13_2",
+        "mahalle_adi": "Yeşilyurt Mah (çaltı Köyü)",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "43_2",
+        "mahalle_adi": "Yılmaz Köyü",
+        "posta_kodu": "24710"
+    },
+    {
+        "mahalle_id": "35_2",
+        "mahalle_adi": "Yukarı Ağıldere Mah (ağıldere Köyü)",
+        "posta_kodu": "24710"
+    }
+]

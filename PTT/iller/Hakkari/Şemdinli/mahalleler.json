@@ -1,0 +1,447 @@
+[
+    {
+        "mahalle_id": "66_2",
+        "mahalle_adi": "Akbal Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "62_2",
+        "mahalle_adi": "Akkavak Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "51_2",
+        "mahalle_adi": "Aktütün Mah (konur Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "78_2",
+        "mahalle_adi": "Alan Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "61_2",
+        "mahalle_adi": "Alkava Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "18_2",
+        "mahalle_adi": "Aşağı Kayacık Mah (boğazköy Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "68_2",
+        "mahalle_adi": "Aşağı Korgan Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "54_2",
+        "mahalle_adi": "Aşağı Tuğlu Mah (yufkalı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "6_2",
+        "mahalle_adi": "Bağlar Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "80_2",
+        "mahalle_adi": "Balıklı Mah (tekeli Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "58_2",
+        "mahalle_adi": "Balova Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "2_1",
+        "mahalle_adi": "Beşevler Mah",
+        "posta_kodu": "30800"
+    },
+    {
+        "mahalle_id": "9_2",
+        "mahalle_adi": "Beytera Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "17_2",
+        "mahalle_adi": "Beyyurdu Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "60_2",
+        "mahalle_adi": "Binahere Mah (yufkalı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "21_2",
+        "mahalle_adi": "Bozyamaç Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "32_2",
+        "mahalle_adi": "Çalışkanlar Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "15_2",
+        "mahalle_adi": "Çamlıca Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "23_2",
+        "mahalle_adi": "Çatalca Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "16_2",
+        "mahalle_adi": "Çem Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "20_2",
+        "mahalle_adi": "Çem Mah (boğazköy Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "59_2",
+        "mahalle_adi": "Çevre Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "29_2",
+        "mahalle_adi": "Çubuklu Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "22_2",
+        "mahalle_adi": "Deravi Mah (bozyamaç Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "3_2",
+        "mahalle_adi": "Dereboyu Mah (altınsu Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "50_2",
+        "mahalle_adi": "Dereyanı Mah (konur Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "28_2",
+        "mahalle_adi": "Dinarte Mah (çubuklu Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "64_2",
+        "mahalle_adi": "Durak Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "1_2",
+        "mahalle_adi": "Elde Mah (altınsu Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "55_2",
+        "mahalle_adi": "Elmalı Mah (yufkalı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "26_2",
+        "mahalle_adi": "Erdemli Mah (çatalca Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "45_2",
+        "mahalle_adi": "Erikli Mah (kayalar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "73_2",
+        "mahalle_adi": "Güleç Mah (tütünlü Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "39_2",
+        "mahalle_adi": "Günyazı Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "24_2",
+        "mahalle_adi": "Güvenli Mah (çatalca Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "11_2",
+        "mahalle_adi": "Güzelkaya Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "57_2",
+        "mahalle_adi": "Güzelkonak Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "72_2",
+        "mahalle_adi": "Harmanlı Mah (öveç Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "38_2",
+        "mahalle_adi": "Hazne Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "48_2",
+        "mahalle_adi": "Husrova Mah (kayalar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "5_2",
+        "mahalle_adi": "İncesu Mah (altınsu Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "71_2",
+        "mahalle_adi": "Karaağaç Mah (öveç Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "3_1",
+        "mahalle_adi": "Karşıyaka Mah",
+        "posta_kodu": "30800"
+    },
+    {
+        "mahalle_id": "46_2",
+        "mahalle_adi": "Kayalar Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "35_2",
+        "mahalle_adi": "Kepenek Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "37_2",
+        "mahalle_adi": "Koçbaşı Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "27_2",
+        "mahalle_adi": "Kolita Mah (çubuklu Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "52_2",
+        "mahalle_adi": "Konur Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "65_2",
+        "mahalle_adi": "Korgan Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "56_2",
+        "mahalle_adi": "Kula Mah (yufkalı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "44_2",
+        "mahalle_adi": "Kule Mah (kayalar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "47_2",
+        "mahalle_adi": "Mağaraönü Mah (kayalar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "2_2",
+        "mahalle_adi": "Merkez Mah (altınsu Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "12_2",
+        "mahalle_adi": "Meşeli Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "4_2",
+        "mahalle_adi": "Meydan Mah (altınsu Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "4_1",
+        "mahalle_adi": "Moda Mah",
+        "posta_kodu": "30800"
+    },
+    {
+        "mahalle_id": "10_2",
+        "mahalle_adi": "Muşi Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "81_2",
+        "mahalle_adi": "Oğlaklı Mah (tekeli Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "41_2",
+        "mahalle_adi": "Olgunlar Mah (günyazı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "70_2",
+        "mahalle_adi": "Öveç Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "14_2",
+        "mahalle_adi": "Rüzgarlı Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "34_2",
+        "mahalle_adi": "Samanlı Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "42_2",
+        "mahalle_adi": "Sarıca Mah (kayalar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "43_2",
+        "mahalle_adi": "Seçkin Mah (kayalar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "25_2",
+        "mahalle_adi": "Soğuksu Mah (çatalca Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "82_2",
+        "mahalle_adi": "Tanyolu Mah (tekeli Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "63_2",
+        "mahalle_adi": "Tatlıca Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "79_2",
+        "mahalle_adi": "Tekeli Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "53_2",
+        "mahalle_adi": "Tuğlu Mah (yufkalı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "7_2",
+        "mahalle_adi": "Türe Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "74_2",
+        "mahalle_adi": "Tütünlü Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "8_2",
+        "mahalle_adi": "Tuva Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "33_2",
+        "mahalle_adi": "Üçgöze Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "75_2",
+        "mahalle_adi": "Uğuraçan Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "83_2",
+        "mahalle_adi": "Üstünağaç Mah (tekeli Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "67_2",
+        "mahalle_adi": "Üzümkıran Kampı Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "30_2",
+        "mahalle_adi": "Veliköy Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "1_1",
+        "mahalle_adi": "Yayla Mah",
+        "posta_kodu": "30800"
+    },
+    {
+        "mahalle_id": "77_2",
+        "mahalle_adi": "Yaylapınar Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "5_1",
+        "mahalle_adi": "Yeni Mah",
+        "posta_kodu": "30800"
+    },
+    {
+        "mahalle_id": "40_2",
+        "mahalle_adi": "Yeniceli Mah (günyazı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "76_2",
+        "mahalle_adi": "Yeşilbayır Mah (uğuraçan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "31_2",
+        "mahalle_adi": "Yeşilöz Mah (çalışkanlar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "36_2",
+        "mahalle_adi": "Yiğitler Mah (günyazı Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "84_2",
+        "mahalle_adi": "Yufkalı Köyü",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "19_2",
+        "mahalle_adi": "Yukarı Kayacık Mah (boğazköy Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "49_2",
+        "mahalle_adi": "Yukarı Kayalar Mah (kayalar Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "69_2",
+        "mahalle_adi": "Yukarı Korgan Mah (korgan Köyü)",
+        "posta_kodu": "30802"
+    },
+    {
+        "mahalle_id": "13_2",
+        "mahalle_adi": "Zorgeçit Mah (bağlar Köyü)",
+        "posta_kodu": "30802"
+    }
+]
