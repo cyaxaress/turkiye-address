@@ -6,6 +6,8 @@ on:
     types:
       - completed
   workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
 
 permissions:
   contents: write
