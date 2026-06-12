@@ -179474,9 +179474,9 @@
             "posta_kodu": "29802"
           },
           {
-            "mahalle_id": "29_1684_8b94705f6adee943f9f666e085228259",
-            "mahalle_adi": "Karşıyaka / İnkılap Köyü",
-            "mahalle_slug": "karsiyaka-inkilap-koyu",
+            "mahalle_id": "29_1684_d8eb98dcd3126d6478226338fcf554af",
+            "mahalle_adi": "Karşıyaka / Musalla Köyü",
+            "mahalle_slug": "karsiyaka-musalla-koyu",
             "posta_kodu": "29802"
           },
           {
@@ -179732,12 +179732,6 @@
             "posta_kodu": "29802"
           },
           {
-            "mahalle_id": "29_1684_ca3b3742f6b0fb80aa54badbd981db59",
-            "mahalle_adi": "Merkez / İnkılap Köyü",
-            "mahalle_slug": "merkez-inkilap-koyu",
-            "posta_kodu": "29802"
-          },
-          {
             "mahalle_id": "29_1684_a9011996129ed7cdde63ff324bce6040",
             "mahalle_adi": "Merkez / Kirazlık Köyü",
             "mahalle_slug": "merkez-kirazlik-koyu",
@@ -179753,6 +179747,12 @@
             "mahalle_id": "29_1684_0bbe54a0bc94dfc0e8c336e97cbbd590",
             "mahalle_adi": "Merkez / Küçükçit Köyü",
             "mahalle_slug": "merkez-kucukcit-koyu",
+            "posta_kodu": "29802"
+          },
+          {
+            "mahalle_id": "29_1684_a63086f08b05e605d35c25f35baef475",
+            "mahalle_adi": "Merkez / Musalla Köyü",
+            "mahalle_slug": "merkez-musalla-koyu",
             "posta_kodu": "29802"
           },
           {
@@ -180110,9 +180110,9 @@
             "posta_kodu": "29802"
           },
           {
-            "mahalle_id": "29_1684_de5c697ed4aed5daa8ef46e82b90d2b2",
-            "mahalle_adi": "Yede / İnkılap Köyü",
-            "mahalle_slug": "yede-inkilap-koyu",
+            "mahalle_id": "29_1684_f92144c8647cfcab420e11520eeddd0b",
+            "mahalle_adi": "Yede / Musalla Köyü",
+            "mahalle_slug": "yede-musalla-koyu",
             "posta_kodu": "29802"
           },
           {
