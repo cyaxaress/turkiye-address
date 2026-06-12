@@ -132,6 +132,12 @@
         "posta_kodu": "76902"
     },
     {
+        "mahalle_id": "76_1692_2e085bc834104d50d28cc8ad2e1b5e98",
+        "mahalle_adi": "Beyler Köyü",
+        "mahalle_slug": "beyler-koyu",
+        "posta_kodu": "76902"
+    },
+    {
         "mahalle_id": "76_1692_47ec68e5e7100ed14b376b9502858f39",
         "mahalle_adi": "Beyoğlu Köyü",
         "mahalle_slug": "beyoglu-koyu",
@@ -531,12 +537,6 @@
         "mahalle_id": "76_1692_9bb0308a94c9fb9e43b251ee0dd347e1",
         "mahalle_adi": "Taşuçan Köyü",
         "mahalle_slug": "tasucan-koyu",
-        "posta_kodu": "76902"
-    },
-    {
-        "mahalle_id": "76_1692_0986a50b041eddc9db9626a993f61746",
-        "mahalle_adi": "Tezekçi Köyü",
-        "mahalle_slug": "tezekci-koyu",
         "posta_kodu": "76902"
     },
     {
