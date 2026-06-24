@@ -138419,9 +138419,9 @@
             "posta_kodu": "24002"
           },
           {
-            "mahalle_id": "24_1318_a9d236a3a965d2908f17f387d0d5c992",
-            "mahalle_adi": "Alsancak / Yaylabaşı Köyü",
-            "mahalle_slug": "alsancak-yaylabasi-koyu",
+            "mahalle_id": "24_1318_99300b788126b5a9fd6a64e9bdf5f568",
+            "mahalle_adi": "Alsancak / Merkez Köyü",
+            "mahalle_slug": "alsancak-merkez-koyu",
             "posta_kodu": "24002"
           },
           {
@@ -138719,9 +138719,9 @@
             "posta_kodu": "24002"
           },
           {
-            "mahalle_id": "24_1318_05556683fd163a66ffb9344981bdb476",
-            "mahalle_adi": "Güllüce / Yaylabaşı Köyü",
-            "mahalle_slug": "gulluce-yaylabasi-koyu",
+            "mahalle_id": "24_1318_4fe020b84a102c34868cec54946ca00b",
+            "mahalle_adi": "Güllüce / Merkez Köyü",
+            "mahalle_slug": "gulluce-merkez-koyu",
             "posta_kodu": "24002"
           },
           {
@@ -139031,15 +139031,15 @@
             "posta_kodu": "24002"
           },
           {
-            "mahalle_id": "24_1318_6b152e8c8f8a92d1736aa513a9ca43ca",
-            "mahalle_adi": "Şehitserhat / Yaylabaşı Köyü",
-            "mahalle_slug": "sehitserhat-yaylabasi-koyu",
+            "mahalle_id": "24_1318_229952d434d5eb84340a82af2824507b",
+            "mahalle_adi": "Şehitserhat / Merkez Köyü",
+            "mahalle_slug": "sehitserhat-merkez-koyu",
             "posta_kodu": "24002"
           },
           {
-            "mahalle_id": "24_1318_aef696d27dd55c43f85d4b8c089e6b1b",
-            "mahalle_adi": "Selçuklu / Yaylabaşı Köyü",
-            "mahalle_slug": "selcuklu-yaylabasi-koyu",
+            "mahalle_id": "24_1318_4809833183dfb5d87e261de99b34e724",
+            "mahalle_adi": "Selçuklu / Merkez Köyü",
+            "mahalle_slug": "selcuklu-merkez-koyu",
             "posta_kodu": "24002"
           },
           {
@@ -428108,12 +428108,6 @@
             "mahalle_id": "76_1692_046c7af347a6f3f2afdc15df30d0c266",
             "mahalle_adi": "Yaylacık Köyü",
             "mahalle_slug": "yaylacik-koyu",
-            "posta_kodu": "76902"
-          },
-          {
-            "mahalle_id": "76_1692_fde8345d17361eb06a1ba76d87193eb1",
-            "mahalle_adi": "Yeniköy / Göktaş Köyü",
-            "mahalle_slug": "yenikoy-goktas-koyu",
             "posta_kodu": "76902"
           },
           {
