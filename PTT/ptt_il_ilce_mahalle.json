@@ -14026,15 +14026,15 @@
             "posta_kodu": "03402"
           },
           {
-            "mahalle_id": "3_1281_b3340c8e941501aa49a07f8b9ed19652",
-            "mahalle_adi": "Akça Köyü",
-            "mahalle_slug": "akca-koyu",
+            "mahalle_id": "3_1281_e97f004c889cde17c51942d7aac663d9",
+            "mahalle_adi": "Akça / Cumhuriyet Köyü",
+            "mahalle_slug": "akca-cumhuriyet-koyu",
             "posta_kodu": "03402"
           },
           {
-            "mahalle_id": "3_1281_04320bd001246ad89502f0e84bc6f58f",
-            "mahalle_adi": "Akça Mh. / Cumhuriyet Köyü",
-            "mahalle_slug": "akca-mh-cumhuriyet-koyu",
+            "mahalle_id": "3_1281_b3340c8e941501aa49a07f8b9ed19652",
+            "mahalle_adi": "Akça Köyü",
+            "mahalle_slug": "akca-koyu",
             "posta_kodu": "03402"
           },
           {
@@ -14104,9 +14104,9 @@
             "posta_kodu": "03402"
           },
           {
-            "mahalle_id": "3_1281_23090a15b0dc125dcc90ad465e04a77d",
-            "mahalle_adi": "Aydınlı / Bademli Köyü",
-            "mahalle_slug": "aydinli-bademli-koyu",
+            "mahalle_id": "3_1281_af05f27b4601c9ffda3c3b941a434e7d",
+            "mahalle_adi": "Aydınlar / Bademli Köyü",
+            "mahalle_slug": "aydinlar-bademli-koyu",
             "posta_kodu": "03402"
           },
           {
@@ -14356,9 +14356,9 @@
             "posta_kodu": "03402"
           },
           {
-            "mahalle_id": "3_1281_cda85786ec7ded02154a7f928ed25a69",
-            "mahalle_adi": "Hacımahmut / Yeşilçat Köyü",
-            "mahalle_slug": "hacimahmut-yesilcat-koyu",
+            "mahalle_id": "3_1281_e431d5055b6d526f250d2b22ab3b6df2",
+            "mahalle_adi": "Hacımehmet / Yeşilçat Köyü",
+            "mahalle_slug": "hacimehmet-yesilcat-koyu",
             "posta_kodu": "03402"
           },
           {
@@ -14530,9 +14530,9 @@
             "posta_kodu": "03402"
           },
           {
-            "mahalle_id": "3_1281_6b498081451e7ecc7d227c7555920013",
-            "mahalle_adi": "Seydilli Mh. / Cumhuriyet Köyü",
-            "mahalle_slug": "seydilli-mh-cumhuriyet-koyu",
+            "mahalle_id": "3_1281_b1be4d49ec0452a1e3552fc10a5d2a82",
+            "mahalle_adi": "Seydili / Cumhuriyet Köyü",
+            "mahalle_slug": "seydili-cumhuriyet-koyu",
             "posta_kodu": "03402"
           },
           {
@@ -18097,12 +18097,6 @@
             "posta_kodu": "03752"
           },
           {
-            "mahalle_id": "3_1809_7293e599952e5a65aad991b0c182e9af",
-            "mahalle_adi": "Kürtyurdu / Çatağıl Köyü",
-            "mahalle_slug": "kurtyurdu-catagil-koyu",
-            "posta_kodu": "03752"
-          },
-          {
             "mahalle_id": "3_1809_e5e2baec34b85f2d42d938757b188c7b",
             "mahalle_adi": "Merkez / Çatağıl Köyü",
             "mahalle_slug": "merkez-catagil-koyu",
@@ -18148,6 +18142,12 @@
             "mahalle_id": "3_1809_a60a612e2f5e0bda864e5195a1f1e5e0",
             "mahalle_adi": "Yanıklar / Olukpınar Köyü",
             "mahalle_slug": "yaniklar-olukpinar-koyu",
+            "posta_kodu": "03752"
+          },
+          {
+            "mahalle_id": "3_1809_109d03a9a99beb7167485f67f0dc5719",
+            "mahalle_adi": "Yörükyurdu / Çatağıl Köyü",
+            "mahalle_slug": "yorukyurdu-catagil-koyu",
             "posta_kodu": "03752"
           },
           {
