@@ -168,12 +168,6 @@
         "posta_kodu": "03752"
     },
     {
-        "mahalle_id": "3_1809_7293e599952e5a65aad991b0c182e9af",
-        "mahalle_adi": "Kürtyurdu / Çatağıl Köyü",
-        "mahalle_slug": "kurtyurdu-catagil-koyu",
-        "posta_kodu": "03752"
-    },
-    {
         "mahalle_id": "3_1809_e5e2baec34b85f2d42d938757b188c7b",
         "mahalle_adi": "Merkez / Çatağıl Köyü",
         "mahalle_slug": "merkez-catagil-koyu",
@@ -219,6 +213,12 @@
         "mahalle_id": "3_1809_a60a612e2f5e0bda864e5195a1f1e5e0",
         "mahalle_adi": "Yanıklar / Olukpınar Köyü",
         "mahalle_slug": "yaniklar-olukpinar-koyu",
+        "posta_kodu": "03752"
+    },
+    {
+        "mahalle_id": "3_1809_109d03a9a99beb7167485f67f0dc5719",
+        "mahalle_adi": "Yörükyurdu / Çatağıl Köyü",
+        "mahalle_slug": "yorukyurdu-catagil-koyu",
         "posta_kodu": "03752"
     },
     {
