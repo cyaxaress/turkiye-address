@@ -4,7 +4,7 @@ Türkiye genelinde **il**, **ilçe** ve **mahalle** (posta kodu dahiye) hiyerar�
 
 ## 📅 Son Güncelleme
 
-**Son güncelleme:** 23 Temmuz 2026, 02:34
+**Son güncelleme:** 24 Temmuz 2026, 02:30
 
 ## Veri özeti
 
@@ -13,7 +13,7 @@ Son tam çekimdeki kayıt sayıları:
 <!-- PTT_STATS_TABLE_START -->
 | İl | İlçe | Mahalle |
 | ---: | ---: | ---: |
-| 81 | 973 | 72985 |
+| 81 | 973 | 72986 |
 <!-- PTT_STATS_TABLE_END -->
 
 ## İçindekiler
