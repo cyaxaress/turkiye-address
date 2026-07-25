@@ -210,6 +210,12 @@
         "posta_kodu": "73802"
     },
     {
+        "mahalle_id": "73_1189_13b96d54c7071247cfdcfa80a37f6cb5",
+        "mahalle_adi": "Yenice Köyü",
+        "mahalle_slug": "yenice-koyu",
+        "posta_kodu": "73802"
+    },
+    {
         "mahalle_id": "73_1189_7a7911ab2ea276b836ae603146f5e948",
         "mahalle_adi": "Yeşilöz Köyü",
         "mahalle_slug": "yesiloz-koyu",
