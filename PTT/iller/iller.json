@@ -20,6 +20,11 @@
         "il_slug": "agri"
     },
     {
+        "il_id": "68",
+        "il_adi": "Aksaray",
+        "il_slug": "aksaray"
+    },
+    {
         "il_id": "5",
         "il_adi": "Amasya",
         "il_slug": "amasya"
@@ -35,6 +40,11 @@
         "il_slug": "antalya"
     },
     {
+        "il_id": "75",
+        "il_adi": "Ardahan",
+        "il_slug": "ardahan"
+    },
+    {
         "il_id": "8",
         "il_adi": "Artvin",
         "il_slug": "artvin"
@@ -48,6 +58,21 @@
         "il_id": "10",
         "il_adi": "Balıkesir",
         "il_slug": "balikesir"
+    },
+    {
+        "il_id": "74",
+        "il_adi": "Bartın",
+        "il_slug": "bartin"
+    },
+    {
+        "il_id": "72",
+        "il_adi": "Batman",
+        "il_slug": "batman"
+    },
+    {
+        "il_id": "69",
+        "il_adi": "Bayburt",
+        "il_slug": "bayburt"
     },
     {
         "il_id": "11",
@@ -105,6 +130,11 @@
         "il_slug": "diyarbakir"
     },
     {
+        "il_id": "81",
+        "il_adi": "Düzce",
+        "il_slug": "duzce"
+    },
+    {
         "il_id": "22",
         "il_adi": "Edirne",
         "il_slug": "edirne"
@@ -155,14 +185,14 @@
         "il_slug": "hatay"
     },
     {
+        "il_id": "76",
+        "il_adi": "Iğdır",
+        "il_slug": "igdir"
+    },
+    {
         "il_id": "32",
         "il_adi": "Isparta",
         "il_slug": "isparta"
-    },
-    {
-        "il_id": "33",
-        "il_adi": "Mersin",
-        "il_slug": "mersin"
     },
     {
         "il_id": "34",
@@ -173,6 +203,21 @@
         "il_id": "35",
         "il_adi": "İzmir",
         "il_slug": "izmir"
+    },
+    {
+        "il_id": "46",
+        "il_adi": "Kahramanmaraş",
+        "il_slug": "kahramanmaras"
+    },
+    {
+        "il_id": "78",
+        "il_adi": "Karabük",
+        "il_slug": "karabuk"
+    },
+    {
+        "il_id": "70",
+        "il_adi": "Karaman",
+        "il_slug": "karaman"
     },
     {
         "il_id": "36",
@@ -190,6 +235,11 @@
         "il_slug": "kayseri"
     },
     {
+        "il_id": "71",
+        "il_adi": "Kırıkkale",
+        "il_slug": "kirikkale"
+    },
+    {
         "il_id": "39",
         "il_adi": "Kırklareli",
         "il_slug": "kirklareli"
@@ -198,6 +248,11 @@
         "il_id": "40",
         "il_adi": "Kırşehir",
         "il_slug": "kirsehir"
+    },
+    {
+        "il_id": "79",
+        "il_adi": "Kilis",
+        "il_slug": "kilis"
     },
     {
         "il_id": "41",
@@ -225,14 +280,14 @@
         "il_slug": "manisa"
     },
     {
-        "il_id": "46",
-        "il_adi": "Kahramanmaraş",
-        "il_slug": "kahramanmaras"
-    },
-    {
         "il_id": "47",
         "il_adi": "Mardin",
         "il_slug": "mardin"
+    },
+    {
+        "il_id": "33",
+        "il_adi": "Mersin",
+        "il_slug": "mersin"
     },
     {
         "il_id": "48",
@@ -258,6 +313,11 @@
         "il_id": "52",
         "il_adi": "Ordu",
         "il_slug": "ordu"
+    },
+    {
+        "il_id": "80",
+        "il_adi": "Osmaniye",
+        "il_slug": "osmaniye"
     },
     {
         "il_id": "53",
@@ -290,6 +350,16 @@
         "il_slug": "sivas"
     },
     {
+        "il_id": "63",
+        "il_adi": "Şanlıurfa",
+        "il_slug": "sanliurfa"
+    },
+    {
+        "il_id": "73",
+        "il_adi": "Şırnak",
+        "il_slug": "sirnak"
+    },
+    {
         "il_id": "59",
         "il_adi": "Tekirdağ",
         "il_slug": "tekirdag"
@@ -310,11 +380,6 @@
         "il_slug": "tunceli"
     },
     {
-        "il_id": "63",
-        "il_adi": "Şanlıurfa",
-        "il_slug": "sanliurfa"
-    },
-    {
         "il_id": "64",
         "il_adi": "Uşak",
         "il_slug": "usak"
@@ -325,6 +390,11 @@
         "il_slug": "van"
     },
     {
+        "il_id": "77",
+        "il_adi": "Yalova",
+        "il_slug": "yalova"
+    },
+    {
         "il_id": "66",
         "il_adi": "Yozgat",
         "il_slug": "yozgat"
@@ -333,75 +403,5 @@
         "il_id": "67",
         "il_adi": "Zonguldak",
         "il_slug": "zonguldak"
-    },
-    {
-        "il_id": "68",
-        "il_adi": "Aksaray",
-        "il_slug": "aksaray"
-    },
-    {
-        "il_id": "69",
-        "il_adi": "Bayburt",
-        "il_slug": "bayburt"
-    },
-    {
-        "il_id": "70",
-        "il_adi": "Karaman",
-        "il_slug": "karaman"
-    },
-    {
-        "il_id": "71",
-        "il_adi": "Kırıkkale",
-        "il_slug": "kirikkale"
-    },
-    {
-        "il_id": "72",
-        "il_adi": "Batman",
-        "il_slug": "batman"
-    },
-    {
-        "il_id": "73",
-        "il_adi": "Şırnak",
-        "il_slug": "sirnak"
-    },
-    {
-        "il_id": "74",
-        "il_adi": "Bartın",
-        "il_slug": "bartin"
-    },
-    {
-        "il_id": "75",
-        "il_adi": "Ardahan",
-        "il_slug": "ardahan"
-    },
-    {
-        "il_id": "76",
-        "il_adi": "Iğdır",
-        "il_slug": "igdir"
-    },
-    {
-        "il_id": "77",
-        "il_adi": "Yalova",
-        "il_slug": "yalova"
-    },
-    {
-        "il_id": "78",
-        "il_adi": "Karabük",
-        "il_slug": "karabuk"
-    },
-    {
-        "il_id": "79",
-        "il_adi": "Kilis",
-        "il_slug": "kilis"
-    },
-    {
-        "il_id": "80",
-        "il_adi": "Osmaniye",
-        "il_slug": "osmaniye"
-    },
-    {
-        "il_id": "81",
-        "il_adi": "Düzce",
-        "il_slug": "duzce"
     }
 ]
