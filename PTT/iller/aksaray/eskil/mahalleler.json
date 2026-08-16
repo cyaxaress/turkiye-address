@@ -120,12 +120,6 @@
         "posta_kodu": "68802"
     },
     {
-        "mahalle_id": "68_1921_3c138552644d0019acdb8adccc07acf8",
-        "mahalle_adi": "Butacı Yaylası / Başaran Köyü",
-        "mahalle_slug": "butaci-yaylasi-basaran-koyu",
-        "posta_kodu": "68802"
-    },
-    {
         "mahalle_id": "68_1921_7a72f85c1ab5231ee3c3f8ecd5356a84",
         "mahalle_adi": "Çağlak Yaylası / Güneşli Köyü",
         "mahalle_slug": "caglak-yaylasi-gunesli-koyu",
@@ -222,15 +216,21 @@
         "posta_kodu": "68802"
     },
     {
+        "mahalle_id": "68_1921_0b7f6c3d4860990efd053156f3c5ecbd",
+        "mahalle_adi": "Putacı / Başaran Köyü",
+        "mahalle_slug": "putaci-basaran-koyu",
+        "posta_kodu": "68802"
+    },
+    {
         "mahalle_id": "68_1921_7b1a6e92cae426d7d09ac1f28a558fed",
         "mahalle_adi": "Sağsak Kümesi / Sağsak Köyü",
         "mahalle_slug": "sagsak-kumesi-sagsak-koyu",
         "posta_kodu": "68802"
     },
     {
-        "mahalle_id": "68_1921_2d17924607c09c7bdd3a4151cc975c25",
-        "mahalle_adi": "Şavvel Yaylası / Büğet Köyü",
-        "mahalle_slug": "savvel-yaylasi-buget-koyu",
+        "mahalle_id": "68_1921_a203e43805bff3efe467af9ca64d9c21",
+        "mahalle_adi": "Şavvel / Büğet Köyü",
+        "mahalle_slug": "savvel-buget-koyu",
         "posta_kodu": "68802"
     },
     {
