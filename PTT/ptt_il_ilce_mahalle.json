@@ -91305,12 +91305,6 @@
             "posta_kodu": "13001"
           },
           {
-            "mahalle_id": "13_1196_1c92ea10dc3249198e1e03dcc3f9e88b",
-            "mahalle_adi": "Boylu Mah.",
-            "mahalle_slug": "boylu-mah",
-            "posta_kodu": "13001"
-          },
-          {
             "mahalle_id": "13_1196_fb7729c17aa399fd6bf3b0bf850bc8af",
             "mahalle_adi": "Çadırlı Mah.",
             "mahalle_slug": "cadirli-mah",
@@ -91323,9 +91317,9 @@
             "posta_kodu": "13001"
           },
           {
-            "mahalle_id": "13_1196_ae4062d0184f0b4dc3c4e5d237628183",
-            "mahalle_adi": "Çaylı Mah.",
-            "mahalle_slug": "cayli-mah",
+            "mahalle_id": "13_1196_d497d10805d35d62901c5cdf106f4054",
+            "mahalle_adi": "Çayırlı Mah.",
+            "mahalle_slug": "cayirli-mah",
             "posta_kodu": "13001"
           },
           {
@@ -91365,9 +91359,9 @@
             "posta_kodu": "13001"
           },
           {
-            "mahalle_id": "13_1196_2b01d32610770448fdaf2cc1a82ce9d4",
-            "mahalle_adi": "Kaplı Mah.",
-            "mahalle_slug": "kapli-mah",
+            "mahalle_id": "13_1196_eccbc32e6686192c06adabcec8b4be03",
+            "mahalle_adi": "Kapalı Mah.",
+            "mahalle_slug": "kapali-mah",
             "posta_kodu": "13001"
           },
           {
@@ -91566,12 +91560,6 @@
             "mahalle_id": "13_1196_610804079cfb1e2cee7983aaa6e5a043",
             "mahalle_adi": "Çalıdüzü Köyü",
             "mahalle_slug": "caliduzu-koyu",
-            "posta_kodu": "13002"
-          },
-          {
-            "mahalle_id": "13_1196_40bacca2bebcda381779eba133c13dce",
-            "mahalle_adi": "Çallı / Çeltikli Köyü",
-            "mahalle_slug": "calli-celtikli-koyu",
             "posta_kodu": "13002"
           },
           {
@@ -92158,6 +92146,12 @@
             "posta_kodu": "13602"
           },
           {
+            "mahalle_id": "13_1394_a75701f8bc14df1517d4bdd0a6b6c590",
+            "mahalle_adi": "Aşağıgöze / Kalkanlı Köyü",
+            "mahalle_slug": "asagigoze-kalkanli-koyu",
+            "posta_kodu": "13602"
+          },
+          {
             "mahalle_id": "13_1394_1c0e3ee206c966d3b5fb960f79ea5aa6",
             "mahalle_adi": "Avlak / Karbastı Köyü",
             "mahalle_slug": "avlak-karbasti-koyu",
@@ -92287,12 +92281,6 @@
             "mahalle_id": "13_1394_57e30ca25328c541ed64d482ea9c4a5d",
             "mahalle_adi": "Çayır Köyü",
             "mahalle_slug": "cayir-koyu",
-            "posta_kodu": "13602"
-          },
-          {
-            "mahalle_id": "13_1394_0623d8cef8d9e190172afb5df89afafc",
-            "mahalle_adi": "Çayırlı / Çatakdeğirmen Köyü",
-            "mahalle_slug": "cayirli-catakdegirmen-koyu",
             "posta_kodu": "13602"
           },
           {
@@ -92479,12 +92467,6 @@
             "mahalle_id": "13_1394_8e0ca5f93e1a181e36b0f6cef4bc646a",
             "mahalle_adi": "Gönüllü Köyü",
             "mahalle_slug": "gonullu-koyu",
-            "posta_kodu": "13602"
-          },
-          {
-            "mahalle_id": "13_1394_2c3613bcbb24a1fe81571854141f2ad9",
-            "mahalle_adi": "Göze / Kalkanlı Köyü",
-            "mahalle_slug": "goze-kalkanli-koyu",
             "posta_kodu": "13602"
           },
           {
