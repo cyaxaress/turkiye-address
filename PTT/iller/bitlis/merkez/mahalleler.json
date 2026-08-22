@@ -120,12 +120,6 @@
         "posta_kodu": "13001"
     },
     {
-        "mahalle_id": "13_1196_1c92ea10dc3249198e1e03dcc3f9e88b",
-        "mahalle_adi": "Boylu Mah.",
-        "mahalle_slug": "boylu-mah",
-        "posta_kodu": "13001"
-    },
-    {
         "mahalle_id": "13_1196_fb7729c17aa399fd6bf3b0bf850bc8af",
         "mahalle_adi": "Çadırlı Mah.",
         "mahalle_slug": "cadirli-mah",
@@ -138,9 +132,9 @@
         "posta_kodu": "13001"
     },
     {
-        "mahalle_id": "13_1196_ae4062d0184f0b4dc3c4e5d237628183",
-        "mahalle_adi": "Çaylı Mah.",
-        "mahalle_slug": "cayli-mah",
+        "mahalle_id": "13_1196_d497d10805d35d62901c5cdf106f4054",
+        "mahalle_adi": "Çayırlı Mah.",
+        "mahalle_slug": "cayirli-mah",
         "posta_kodu": "13001"
     },
     {
@@ -180,9 +174,9 @@
         "posta_kodu": "13001"
     },
     {
-        "mahalle_id": "13_1196_2b01d32610770448fdaf2cc1a82ce9d4",
-        "mahalle_adi": "Kaplı Mah.",
-        "mahalle_slug": "kapli-mah",
+        "mahalle_id": "13_1196_eccbc32e6686192c06adabcec8b4be03",
+        "mahalle_adi": "Kapalı Mah.",
+        "mahalle_slug": "kapali-mah",
         "posta_kodu": "13001"
     },
     {
@@ -381,12 +375,6 @@
         "mahalle_id": "13_1196_610804079cfb1e2cee7983aaa6e5a043",
         "mahalle_adi": "Çalıdüzü Köyü",
         "mahalle_slug": "caliduzu-koyu",
-        "posta_kodu": "13002"
-    },
-    {
-        "mahalle_id": "13_1196_40bacca2bebcda381779eba133c13dce",
-        "mahalle_adi": "Çallı / Çeltikli Köyü",
-        "mahalle_slug": "calli-celtikli-koyu",
         "posta_kodu": "13002"
     },
     {

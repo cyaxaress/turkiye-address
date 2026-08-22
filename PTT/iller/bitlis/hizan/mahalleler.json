@@ -186,6 +186,12 @@
         "posta_kodu": "13602"
     },
     {
+        "mahalle_id": "13_1394_a75701f8bc14df1517d4bdd0a6b6c590",
+        "mahalle_adi": "Aşağıgöze / Kalkanlı Köyü",
+        "mahalle_slug": "asagigoze-kalkanli-koyu",
+        "posta_kodu": "13602"
+    },
+    {
         "mahalle_id": "13_1394_1c0e3ee206c966d3b5fb960f79ea5aa6",
         "mahalle_adi": "Avlak / Karbastı Köyü",
         "mahalle_slug": "avlak-karbasti-koyu",
@@ -315,12 +321,6 @@
         "mahalle_id": "13_1394_57e30ca25328c541ed64d482ea9c4a5d",
         "mahalle_adi": "Çayır Köyü",
         "mahalle_slug": "cayir-koyu",
-        "posta_kodu": "13602"
-    },
-    {
-        "mahalle_id": "13_1394_0623d8cef8d9e190172afb5df89afafc",
-        "mahalle_adi": "Çayırlı / Çatakdeğirmen Köyü",
-        "mahalle_slug": "cayirli-catakdegirmen-koyu",
         "posta_kodu": "13602"
     },
     {
@@ -507,12 +507,6 @@
         "mahalle_id": "13_1394_8e0ca5f93e1a181e36b0f6cef4bc646a",
         "mahalle_adi": "Gönüllü Köyü",
         "mahalle_slug": "gonullu-koyu",
-        "posta_kodu": "13602"
-    },
-    {
-        "mahalle_id": "13_1394_2c3613bcbb24a1fe81571854141f2ad9",
-        "mahalle_adi": "Göze / Kalkanlı Köyü",
-        "mahalle_slug": "goze-kalkanli-koyu",
         "posta_kodu": "13602"
     },
     {
