@@ -14116,12 +14116,6 @@
             "posta_kodu": "03402"
           },
           {
-            "mahalle_id": "3_1281_4fdbf9819c7eb892b75cab4f0796b8ec",
-            "mahalle_adi": "Bağcılar Köyü",
-            "mahalle_slug": "bagcilar-koyu",
-            "posta_kodu": "03402"
-          },
-          {
             "mahalle_id": "3_1281_c687b119dc1ab7b522cc60281808a8d2",
             "mahalle_adi": "Bahçelievler / Kınık Köyü",
             "mahalle_slug": "bahcelievler-kinik-koyu",
@@ -14353,6 +14347,12 @@
             "mahalle_id": "3_1281_3930168ae2282924963d22501c7bac21",
             "mahalle_adi": "Gürden Köyü",
             "mahalle_slug": "gurden-koyu",
+            "posta_kodu": "03402"
+          },
+          {
+            "mahalle_id": "3_1281_40e280bc592d751208ef7d1f6cf4366c",
+            "mahalle_adi": "Hacıbeşirli Köyü",
+            "mahalle_slug": "hacibesirli-koyu",
             "posta_kodu": "03402"
           },
           {
@@ -375925,15 +375925,9 @@
             "posta_kodu": "58302"
           },
           {
-            "mahalle_id": "58_1282_94db900d2fbdfa69a715fefeaca76387",
-            "mahalle_adi": "Gözecik (merkez Bucağı) Köyü",
-            "mahalle_slug": "gozecik-merkez-bucagi-koyu",
-            "posta_kodu": "58302"
-          },
-          {
-            "mahalle_id": "58_1282_c0ee8737851e3dc9566c88f5b6c57502",
-            "mahalle_adi": "Gözecik (sincan Bucağı) Köyü",
-            "mahalle_slug": "gozecik-sincan-bucagi-koyu",
+            "mahalle_id": "58_1282_c82d7a079950010683d890b140b798b4",
+            "mahalle_adi": "Gözecik Köyü",
+            "mahalle_slug": "gozecik-koyu",
             "posta_kodu": "58302"
           },
           {
@@ -376348,6 +376342,12 @@
             "mahalle_id": "58_1282_c38ddcf762008fa443f9f392d6020976",
             "mahalle_adi": "Paşa / Çayözü Köyü",
             "mahalle_slug": "pasa-cayozu-koyu",
+            "posta_kodu": "58302"
+          },
+          {
+            "mahalle_id": "58_1282_b44386ed71203374339b3889164bd8f4",
+            "mahalle_adi": "Purunönü Köyü",
+            "mahalle_slug": "purunonu-koyu",
             "posta_kodu": "58302"
           },
           {
