@@ -552,15 +552,9 @@
         "posta_kodu": "58302"
     },
     {
-        "mahalle_id": "58_1282_94db900d2fbdfa69a715fefeaca76387",
-        "mahalle_adi": "Gözecik (merkez Bucağı) Köyü",
-        "mahalle_slug": "gozecik-merkez-bucagi-koyu",
-        "posta_kodu": "58302"
-    },
-    {
-        "mahalle_id": "58_1282_c0ee8737851e3dc9566c88f5b6c57502",
-        "mahalle_adi": "Gözecik (sincan Bucağı) Köyü",
-        "mahalle_slug": "gozecik-sincan-bucagi-koyu",
+        "mahalle_id": "58_1282_c82d7a079950010683d890b140b798b4",
+        "mahalle_adi": "Gözecik Köyü",
+        "mahalle_slug": "gozecik-koyu",
         "posta_kodu": "58302"
     },
     {
@@ -975,6 +969,12 @@
         "mahalle_id": "58_1282_c38ddcf762008fa443f9f392d6020976",
         "mahalle_adi": "Paşa / Çayözü Köyü",
         "mahalle_slug": "pasa-cayozu-koyu",
+        "posta_kodu": "58302"
+    },
+    {
+        "mahalle_id": "58_1282_b44386ed71203374339b3889164bd8f4",
+        "mahalle_adi": "Purunönü Köyü",
+        "mahalle_slug": "purunonu-koyu",
         "posta_kodu": "58302"
     },
     {

@@ -318,12 +318,6 @@
         "posta_kodu": "03402"
     },
     {
-        "mahalle_id": "3_1281_4fdbf9819c7eb892b75cab4f0796b8ec",
-        "mahalle_adi": "Bağcılar Köyü",
-        "mahalle_slug": "bagcilar-koyu",
-        "posta_kodu": "03402"
-    },
-    {
         "mahalle_id": "3_1281_c687b119dc1ab7b522cc60281808a8d2",
         "mahalle_adi": "Bahçelievler / Kınık Köyü",
         "mahalle_slug": "bahcelievler-kinik-koyu",
@@ -555,6 +549,12 @@
         "mahalle_id": "3_1281_3930168ae2282924963d22501c7bac21",
         "mahalle_adi": "Gürden Köyü",
         "mahalle_slug": "gurden-koyu",
+        "posta_kodu": "03402"
+    },
+    {
+        "mahalle_id": "3_1281_40e280bc592d751208ef7d1f6cf4366c",
+        "mahalle_adi": "Hacıbeşirli Köyü",
+        "mahalle_slug": "hacibesirli-koyu",
         "posta_kodu": "03402"
     },
     {
