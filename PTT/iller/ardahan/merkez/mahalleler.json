@@ -498,12 +498,6 @@
         "posta_kodu": "75210"
     },
     {
-        "mahalle_id": "75_1144_2efc4d1c1e28a2edc752d263dcbc451e",
-        "mahalle_adi": "Hasköy Köyü",
-        "mahalle_slug": "haskoy-koyu",
-        "posta_kodu": "75210"
-    },
-    {
         "mahalle_id": "75_1144_c7e98691c6eee88a94f1b70a6c87abb1",
         "mahalle_adi": "Kıraç Köyü",
         "mahalle_slug": "kirac-koyu",
@@ -519,6 +513,12 @@
         "mahalle_id": "75_1144_d52e4c8a79d9cab57ca3dad935c6008b",
         "mahalle_adi": "Uzunova Köyü",
         "mahalle_slug": "uzunova-koyu",
+        "posta_kodu": "75210"
+    },
+    {
+        "mahalle_id": "75_1144_127bd28f020ae63c314d706188a8466b",
+        "mahalle_adi": "Yalnızçam Hasköy Köyü",
+        "mahalle_slug": "yalnizcam-haskoy-koyu",
         "posta_kodu": "75210"
     },
     {
