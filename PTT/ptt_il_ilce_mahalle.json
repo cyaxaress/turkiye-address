@@ -85553,9 +85553,9 @@
             "posta_kodu": "12502"
           },
           {
-            "mahalle_id": "12_1344_468594786861f9989cac58e7e0a89766",
-            "mahalle_adi": "Budak / Tarlabaşı Köyü",
-            "mahalle_slug": "budak-tarlabasi-koyu",
+            "mahalle_id": "12_1344_9adc00dce2e15fe835a2fa80ef8e5722",
+            "mahalle_adi": "Budaklı / Tarlabaşı Köyü",
+            "mahalle_slug": "budakli-tarlabasi-koyu",
             "posta_kodu": "12502"
           },
           {
@@ -87360,12 +87360,6 @@
             "posta_kodu": "12902"
           },
           {
-            "mahalle_id": "12_1446_a71fc1316c86626747f58ee2d84280ea",
-            "mahalle_adi": "Çiçekpınar / Tuzluca Köyü",
-            "mahalle_slug": "cicekpinar-tuzluca-koyu",
-            "posta_kodu": "12902"
-          },
-          {
             "mahalle_id": "12_1446_71f6d69bcb3bf1fcd10ef50b054718a9",
             "mahalle_adi": "Çiftlikköy Köyü",
             "mahalle_slug": "ciftlikkoy-koyu",
@@ -87582,6 +87576,12 @@
             "posta_kodu": "12902"
           },
           {
+            "mahalle_id": "12_1446_888c97c28f7785f9c93c80349724af34",
+            "mahalle_adi": "Mikail / Tuzluca Köyü",
+            "mahalle_slug": "mikail-tuzluca-koyu",
+            "posta_kodu": "12902"
+          },
+          {
             "mahalle_id": "12_1446_53c74b740156557fffbd524fd93c645c",
             "mahalle_adi": "Molla Hüseyin / Kargapazarı Köyü",
             "mahalle_slug": "molla-huseyin-kargapazari-koyu",
@@ -87696,9 +87696,9 @@
             "posta_kodu": "12902"
           },
           {
-            "mahalle_id": "12_1446_e3636cf7463d28a6a64559adc0685c5a",
-            "mahalle_adi": "Yalnızlar / Serpmekaya Köyü",
-            "mahalle_slug": "yalnizlar-serpmekaya-koyu",
+            "mahalle_id": "12_1446_b4d08ae0fe198d02fdf493ef26fcd9dd",
+            "mahalle_adi": "Yalnızhan / Serpmekaya Köyü",
+            "mahalle_slug": "yalnizhan-serpmekaya-koyu",
             "posta_kodu": "12902"
           },
           {
@@ -89980,15 +89980,15 @@
             "posta_kodu": "12652"
           },
           {
-            "mahalle_id": "12_1855_a3c0851e393277955919b0a2c05bd96f",
-            "mahalle_adi": "Hacı / Aydınlar Köyü",
-            "mahalle_slug": "haci-aydinlar-koyu",
-            "posta_kodu": "12652"
-          },
-          {
             "mahalle_id": "12_1855_22460c1e2717551570607f5834fd8142",
             "mahalle_adi": "Hacı Kömü / Korlu Köyü",
             "mahalle_slug": "haci-komu-korlu-koyu",
+            "posta_kodu": "12652"
+          },
+          {
+            "mahalle_id": "12_1855_6592533273ac35e7a86752fe01ca2a83",
+            "mahalle_adi": "Hacılar / Aydınlar Köyü",
+            "mahalle_slug": "hacilar-aydinlar-koyu",
             "posta_kodu": "12652"
           },
           {
@@ -90130,9 +90130,9 @@
             "posta_kodu": "12652"
           },
           {
-            "mahalle_id": "12_1855_58648e395e7cae90378eb7c402ce7316",
-            "mahalle_adi": "Ömerler / Zeynelli Köyü",
-            "mahalle_slug": "omerler-zeynelli-koyu",
+            "mahalle_id": "12_1855_47268188af68c757012fa4bc101ff65e",
+            "mahalle_adi": "Ömeran / Zeynelli Köyü",
+            "mahalle_slug": "omeran-zeynelli-koyu",
             "posta_kodu": "12652"
           },
           {
@@ -90455,12 +90455,6 @@
             "posta_kodu": "12832"
           },
           {
-            "mahalle_id": "12_1996_1c301aef3999f019395ca33cc8175d10",
-            "mahalle_adi": "Mezra / Kaşıklı Köyü",
-            "mahalle_slug": "mezra-kasikli-koyu",
-            "posta_kodu": "12832"
-          },
-          {
             "mahalle_id": "12_1996_a54be445cd0f5b78b4e35cf363585712",
             "mahalle_adi": "Şemo Mezrası / Eskibalta Köyü",
             "mahalle_slug": "semo-mezrasi-eskibalta-koyu",
@@ -90491,9 +90485,15 @@
             "posta_kodu": "12832"
           },
           {
-            "mahalle_id": "12_1996_6f87a2856670c58f697dadb1a81e6059",
-            "mahalle_adi": "Yukarı Salkımlar / Elmalı Köyü",
-            "mahalle_slug": "yukari-salkimlar-elmali-koyu",
+            "mahalle_id": "12_1996_cee3472dc9d4fb121d260a52996fdfe8",
+            "mahalle_adi": "Yukarımezra / Kaşıklı Köyü",
+            "mahalle_slug": "yukarimezra-kasikli-koyu",
+            "posta_kodu": "12832"
+          },
+          {
+            "mahalle_id": "12_1996_efa0d5d312ed2e652832f103c26add30",
+            "mahalle_adi": "Yukarısalkımlar / Elmalı Köyü",
+            "mahalle_slug": "yukarisalkimlar-elmali-koyu",
             "posta_kodu": "12832"
           },
           {
