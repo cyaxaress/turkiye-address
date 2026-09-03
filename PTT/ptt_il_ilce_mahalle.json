@@ -84502,6 +84502,12 @@
             "posta_kodu": "12002"
           },
           {
+            "mahalle_id": "12_1193_166454f0c58a9f889d956a89e862c01e",
+            "mahalle_adi": "Aşağıkemalan / Çayağzı Köyü",
+            "mahalle_slug": "asagikemalan-cayagzi-koyu",
+            "posta_kodu": "12002"
+          },
+          {
             "mahalle_id": "12_1193_ed9557b2ba9af5101e3589ba283b4444",
             "mahalle_adi": "Aşağıköy Köyü",
             "mahalle_slug": "asagikoy-koyu",
@@ -84805,12 +84811,6 @@
             "mahalle_id": "12_1193_512e7c3cb8deb78d29379f708d29d02f",
             "mahalle_adi": "Karşı / Kartal Köyü",
             "mahalle_slug": "karsi-kartal-koyu",
-            "posta_kodu": "12002"
-          },
-          {
-            "mahalle_id": "12_1193_1eaf6d3caee76157abe275628693d3e9",
-            "mahalle_adi": "Kemalan / Çayağzı Köyü",
-            "mahalle_slug": "kemalan-cayagzi-koyu",
             "posta_kodu": "12002"
           },
           {
@@ -85859,12 +85859,6 @@
             "posta_kodu": "12502"
           },
           {
-            "mahalle_id": "12_1344_83d1033803f61abc3fb02e62458c2efb",
-            "mahalle_adi": "Eyerli / Güzeldere Köyü",
-            "mahalle_slug": "eyerli-guzeldere-koyu",
-            "posta_kodu": "12502"
-          },
-          {
             "mahalle_id": "12_1344_5fabf6d49b4ffc9d3e1db166975a2a8b",
             "mahalle_adi": "Fırat / Yeniyazı Köyü",
             "mahalle_slug": "firat-yeniyazi-koyu",
@@ -85964,6 +85958,12 @@
             "mahalle_id": "12_1344_156a3e68975127414dac328072395544",
             "mahalle_adi": "Güvercinli / Bayırlı Köyü",
             "mahalle_slug": "guvercinli-bayirli-koyu",
+            "posta_kodu": "12502"
+          },
+          {
+            "mahalle_id": "12_1344_0d207d734caf27807064488fcd5ec7e4",
+            "mahalle_adi": "Halan / Güzeldere Köyü",
+            "mahalle_slug": "halan-guzeldere-koyu",
             "posta_kodu": "12502"
           },
           {
@@ -90293,9 +90293,9 @@
             "posta_kodu": "12832"
           },
           {
-            "mahalle_id": "12_1996_71e8192924bd36ec2df31e09bc3d0af7",
-            "mahalle_adi": "Ekşipınar / Yeşilgöl Köyü",
-            "mahalle_slug": "eksipinar-yesilgol-koyu",
+            "mahalle_id": "12_1996_a437a14da0b7c3124523691ab43572cb",
+            "mahalle_adi": "Ekşi Pınar / Yeşilgöl Köyü",
+            "mahalle_slug": "eksi-pinar-yesilgol-koyu",
             "posta_kodu": "12832"
           },
           {
