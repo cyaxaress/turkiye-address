@@ -120,12 +120,6 @@
         "posta_kodu": "12902"
     },
     {
-        "mahalle_id": "12_1446_a71fc1316c86626747f58ee2d84280ea",
-        "mahalle_adi": "Çiçekpınar / Tuzluca Köyü",
-        "mahalle_slug": "cicekpinar-tuzluca-koyu",
-        "posta_kodu": "12902"
-    },
-    {
         "mahalle_id": "12_1446_71f6d69bcb3bf1fcd10ef50b054718a9",
         "mahalle_adi": "Çiftlikköy Köyü",
         "mahalle_slug": "ciftlikkoy-koyu",
@@ -342,6 +336,12 @@
         "posta_kodu": "12902"
     },
     {
+        "mahalle_id": "12_1446_888c97c28f7785f9c93c80349724af34",
+        "mahalle_adi": "Mikail / Tuzluca Köyü",
+        "mahalle_slug": "mikail-tuzluca-koyu",
+        "posta_kodu": "12902"
+    },
+    {
         "mahalle_id": "12_1446_53c74b740156557fffbd524fd93c645c",
         "mahalle_adi": "Molla Hüseyin / Kargapazarı Köyü",
         "mahalle_slug": "molla-huseyin-kargapazari-koyu",
@@ -456,9 +456,9 @@
         "posta_kodu": "12902"
     },
     {
-        "mahalle_id": "12_1446_e3636cf7463d28a6a64559adc0685c5a",
-        "mahalle_adi": "Yalnızlar / Serpmekaya Köyü",
-        "mahalle_slug": "yalnizlar-serpmekaya-koyu",
+        "mahalle_id": "12_1446_b4d08ae0fe198d02fdf493ef26fcd9dd",
+        "mahalle_adi": "Yalnızhan / Serpmekaya Köyü",
+        "mahalle_slug": "yalnizhan-serpmekaya-koyu",
         "posta_kodu": "12902"
     },
     {

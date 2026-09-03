@@ -486,6 +486,12 @@
         "posta_kodu": "12002"
     },
     {
+        "mahalle_id": "12_1193_166454f0c58a9f889d956a89e862c01e",
+        "mahalle_adi": "Aşağıkemalan / Çayağzı Köyü",
+        "mahalle_slug": "asagikemalan-cayagzi-koyu",
+        "posta_kodu": "12002"
+    },
+    {
         "mahalle_id": "12_1193_ed9557b2ba9af5101e3589ba283b4444",
         "mahalle_adi": "Aşağıköy Köyü",
         "mahalle_slug": "asagikoy-koyu",
@@ -789,12 +795,6 @@
         "mahalle_id": "12_1193_512e7c3cb8deb78d29379f708d29d02f",
         "mahalle_adi": "Karşı / Kartal Köyü",
         "mahalle_slug": "karsi-kartal-koyu",
-        "posta_kodu": "12002"
-    },
-    {
-        "mahalle_id": "12_1193_1eaf6d3caee76157abe275628693d3e9",
-        "mahalle_adi": "Kemalan / Çayağzı Köyü",
-        "mahalle_slug": "kemalan-cayagzi-koyu",
         "posta_kodu": "12002"
     },
     {

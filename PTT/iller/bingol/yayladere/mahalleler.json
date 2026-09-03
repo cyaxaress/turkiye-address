@@ -96,15 +96,15 @@
         "posta_kodu": "12652"
     },
     {
-        "mahalle_id": "12_1855_a3c0851e393277955919b0a2c05bd96f",
-        "mahalle_adi": "Hacı / Aydınlar Köyü",
-        "mahalle_slug": "haci-aydinlar-koyu",
-        "posta_kodu": "12652"
-    },
-    {
         "mahalle_id": "12_1855_22460c1e2717551570607f5834fd8142",
         "mahalle_adi": "Hacı Kömü / Korlu Köyü",
         "mahalle_slug": "haci-komu-korlu-koyu",
+        "posta_kodu": "12652"
+    },
+    {
+        "mahalle_id": "12_1855_6592533273ac35e7a86752fe01ca2a83",
+        "mahalle_adi": "Hacılar / Aydınlar Köyü",
+        "mahalle_slug": "hacilar-aydinlar-koyu",
         "posta_kodu": "12652"
     },
     {
@@ -246,9 +246,9 @@
         "posta_kodu": "12652"
     },
     {
-        "mahalle_id": "12_1855_58648e395e7cae90378eb7c402ce7316",
-        "mahalle_adi": "Ömerler / Zeynelli Köyü",
-        "mahalle_slug": "omerler-zeynelli-koyu",
+        "mahalle_id": "12_1855_47268188af68c757012fa4bc101ff65e",
+        "mahalle_adi": "Ömeran / Zeynelli Köyü",
+        "mahalle_slug": "omeran-zeynelli-koyu",
         "posta_kodu": "12652"
     },
     {

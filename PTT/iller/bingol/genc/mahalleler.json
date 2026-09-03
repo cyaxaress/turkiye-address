@@ -228,9 +228,9 @@
         "posta_kodu": "12502"
     },
     {
-        "mahalle_id": "12_1344_468594786861f9989cac58e7e0a89766",
-        "mahalle_adi": "Budak / Tarlabaşı Köyü",
-        "mahalle_slug": "budak-tarlabasi-koyu",
+        "mahalle_id": "12_1344_9adc00dce2e15fe835a2fa80ef8e5722",
+        "mahalle_adi": "Budaklı / Tarlabaşı Köyü",
+        "mahalle_slug": "budakli-tarlabasi-koyu",
         "posta_kodu": "12502"
     },
     {
@@ -534,12 +534,6 @@
         "posta_kodu": "12502"
     },
     {
-        "mahalle_id": "12_1344_83d1033803f61abc3fb02e62458c2efb",
-        "mahalle_adi": "Eyerli / Güzeldere Köyü",
-        "mahalle_slug": "eyerli-guzeldere-koyu",
-        "posta_kodu": "12502"
-    },
-    {
         "mahalle_id": "12_1344_5fabf6d49b4ffc9d3e1db166975a2a8b",
         "mahalle_adi": "Fırat / Yeniyazı Köyü",
         "mahalle_slug": "firat-yeniyazi-koyu",
@@ -639,6 +633,12 @@
         "mahalle_id": "12_1344_156a3e68975127414dac328072395544",
         "mahalle_adi": "Güvercinli / Bayırlı Köyü",
         "mahalle_slug": "guvercinli-bayirli-koyu",
+        "posta_kodu": "12502"
+    },
+    {
+        "mahalle_id": "12_1344_0d207d734caf27807064488fcd5ec7e4",
+        "mahalle_adi": "Halan / Güzeldere Köyü",
+        "mahalle_slug": "halan-guzeldere-koyu",
         "posta_kodu": "12502"
     },
     {

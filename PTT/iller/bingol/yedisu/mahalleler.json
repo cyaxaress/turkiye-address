@@ -42,9 +42,9 @@
         "posta_kodu": "12832"
     },
     {
-        "mahalle_id": "12_1996_71e8192924bd36ec2df31e09bc3d0af7",
-        "mahalle_adi": "Ekşipınar / Yeşilgöl Köyü",
-        "mahalle_slug": "eksipinar-yesilgol-koyu",
+        "mahalle_id": "12_1996_a437a14da0b7c3124523691ab43572cb",
+        "mahalle_adi": "Ekşi Pınar / Yeşilgöl Köyü",
+        "mahalle_slug": "eksi-pinar-yesilgol-koyu",
         "posta_kodu": "12832"
     },
     {
@@ -204,12 +204,6 @@
         "posta_kodu": "12832"
     },
     {
-        "mahalle_id": "12_1996_1c301aef3999f019395ca33cc8175d10",
-        "mahalle_adi": "Mezra / Kaşıklı Köyü",
-        "mahalle_slug": "mezra-kasikli-koyu",
-        "posta_kodu": "12832"
-    },
-    {
         "mahalle_id": "12_1996_a54be445cd0f5b78b4e35cf363585712",
         "mahalle_adi": "Şemo Mezrası / Eskibalta Köyü",
         "mahalle_slug": "semo-mezrasi-eskibalta-koyu",
@@ -240,9 +234,15 @@
         "posta_kodu": "12832"
     },
     {
-        "mahalle_id": "12_1996_6f87a2856670c58f697dadb1a81e6059",
-        "mahalle_adi": "Yukarı Salkımlar / Elmalı Köyü",
-        "mahalle_slug": "yukari-salkimlar-elmali-koyu",
+        "mahalle_id": "12_1996_cee3472dc9d4fb121d260a52996fdfe8",
+        "mahalle_adi": "Yukarımezra / Kaşıklı Köyü",
+        "mahalle_slug": "yukarimezra-kasikli-koyu",
+        "posta_kodu": "12832"
+    },
+    {
+        "mahalle_id": "12_1996_efa0d5d312ed2e652832f103c26add30",
+        "mahalle_adi": "Yukarısalkımlar / Elmalı Köyü",
+        "mahalle_slug": "yukarisalkimlar-elmali-koyu",
         "posta_kodu": "12832"
     },
     {
